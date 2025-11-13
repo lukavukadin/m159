@@ -1,7 +1,5 @@
 # m159
 
----
-
 ## 1. Übersicht Umgebung
 
 Diese Umgebung umfasst:
