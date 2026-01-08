@@ -17,10 +17,10 @@ Diese Umgebung umfasst:
 
 | Feld                                | Wert |
 | ----------------------------------- | ---- |
-| Vorname                             |      |
-| Nachname                            |      |
-| Klasse                              |      |
-| Dokumentation (GIT-Repository-Link) |      |
+| Vorname                             | Luka |
+| Nachname                            | Vukadin|
+| Klasse                              | PE23c |
+| Dokumentation (GIT-Repository-Link) | github.lukavukadin/m159|
 
 ---
 
@@ -28,9 +28,9 @@ Diese Umgebung umfasst:
 
 | Feld                                                         | Wert                  |
 | ------------------------------------------------------------ | --------------------- |
-| Active Directory Second-Level-Domäne                         |                       |
-| Geplante öffentliche Domain (UPN) -> Registrieren Sie einen Namen unter https://dynv6.com/ |                       |
-| Azure Education Account mit 80$ ([Anleitung für Freischaltung mit neuer nicht TBZ-E-Mail](../../../../02_Unterrichtsressourcen/03_Fachliteratur&Tutorials/Azure/QRC_AzureForStudents.pdf))<br />(Wenn Sie Ihre private E-Mail-Adresse nicht verwenden möchten, können Sie beispielsweise eine Gmail-Adresse erstellen.) |                       |
+| Active Directory Second-Level-Domäne                         | lukavukadin.m159      |
+| Geplante öffentliche Domain (UPN)                            | lukavukadin.ch        |
+| Azure Education Account mit 80$                              |                       |
 | Azure Education Account Passwort                             | sdf3432lk4nsdfäö$3244 |
 
 ---
@@ -92,9 +92,9 @@ Alle weiteren Ports sind nur innerhalb des VPCs offen.
 
 | Feld                                  | Wert                  |
 | ------------------------------------- | --------------------- |
-| Active Directory Third-Level-Domäne-1 | z.b. ec2.tbz.m159     |
-| Öffentlicher UPN-Suffix (später)      | z.b. m159tbz.v6.rocks |
-| Domänenadministrator                  | Administrator         |
+| Active Directory Third-Level-Domäne-1 | ec2.lukavukadin.m159     |
+| Öffentlicher UPN-Suffix (später)      | lukavukadin.ch |
+| Domänenadministrator                  | Administrator        |
 | Kennwort Domänenadministrator         |                       |
 | Kennwort-Demote (Herunterstufen)      |                       |
 
