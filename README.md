@@ -1,53 +1,55 @@
-# m159
+# m159 - Projekt-Setup-Sheet
 
 ## 1. Übersicht Umgebung
 
 Diese Umgebung umfasst:
 
-- **1x Windows Server (DC)** auf AWS EC2  
-- **1x Windows Server (Client)** auf AWS EC2 (da AWS keine Windows Clients anbietet)  
-- **1x Windows Server (Admin Center)** auf AWS EC2 zur Verwaltung der AWS Managed AD  
-- **AWS Managed AD** mit Trust zur On-Premises(EC2) AD  
-- **Entra Connect** zur Synchronisation mit Entra ID sowie Entra AD  
-- **Lokale AD-Domain** (zu Beginn), später **öffentliche Domain als UPN**  
+- **1x Windows Server (DC)** auf AWS EC2
+    
+- **1x Windows Server (Client)** auf AWS EC2
+    
+- **1x Windows Server (Admin Center)** auf AWS EC2 zur Verwaltung der AWS Managed AD
+    
+- **AWS Managed AD** mit Trust zur On-Premises(EC2) AD
+    
+- **Entra Connect** zur Synchronisation mit Entra ID
+    
+- **Lokale AD-Domain**, später öffentliche Domain als UPN
+    
 
 ---
 
 ## 2. Allgemeine Angaben
 
-| Feld                                | Wert |
-| ----------------------------------- | ---- |
-| Vorname                             | Luka |
-| Nachname                            | Vukadin|
-| Klasse                              | PE23c |
-| Dokumentation (GIT-Repository-Link) | github.lukavukadin/m159|
+|**Feld**|**Wert**|
+|---|---|
+|Vorname|Luka|
+|Nachname|Vukadin|
+|Klasse|PE23c|
+|Dokumentation (GIT-Repository-Link)|[github.com/lukavukadin/m159](https://www.google.com/search?q=https://github.com/lukavukadin/m159&authuser=1)|
 
 ---
 
 ## 3. Ressourcen
 
-| Feld                                                         | Wert                  |
-| ------------------------------------------------------------ | --------------------- |
-| Active Directory Second-Level-Domäne                         | lukavukadin.m159      |
-| Geplante öffentliche Domain (UPN)                            | lukavukadin.ch        |
-| Azure Education Account mit 80$                              |                       |
-| Azure Education Account Passwort                             | sdf3432lk4nsdfäö$3244 |
+|**Feld**|**Wert**|
+|---|---|
+|Active Directory Second-Level-Domäne|lukavukadin.m159|
+|Geplante öffentliche Domain (UPN)|lukavukadin.ch|
+|Azure Education Account|[Deine E-Mail]|
+|Azure Education Account Passwort|sdf3432lk4nsdfäö$3244|
 
 ---
 
 ## 4. AWS VPC Setup
 
-**Hinweis:**  
-Alle Instanzen liegen in einem öffentlichen Subnetz und sind über RDP (Port 3389) von außen erreichbar.  
-Alle weiteren Ports sind nur innerhalb des VPCs offen.  
-
-| Komponente                      | VPC-ID                | CIDR        | Name |
-| ------------------------------- | --------------------- | ----------- | ---- |
-| VPC                             | vpc-0470f613e45697700 | 10.0.0.0/16 |      |
-| M159-subnet-private1-us-east-1a |                       |             |      |
-| M159-subnet-private2-us-east-1b |                       |             |      |
-| M159-subnet-public1-us-east-1a  |                       |             |      |
-| M159-subnet-public2-us-east-1b  |                       |             |      |
+|**Komponente**|**VPC-ID**|**CIDR**|**Name**|
+|---|---|---|---|
+|**VPC**|vpc-0470f613e45697700|10.0.0.0/16|M159-VPC|
+|**Subnet Private 1**|-|10.0.128.0/20|M159-subnet-private1-us-east-1a|
+|**Subnet Private 2**|-|10.0.144.0/20|M159-subnet-private2-us-east-1b|
+|**Subnet Public 1**|-|10.0.0.0/20|M159-subnet-public1-us-east-1a|
+|**Subnet Public 2**|-|10.0.16.0/20|M159-subnet-public2-us-east-1b|
 
 ---
 
@@ -55,34 +57,33 @@ Alle weiteren Ports sind nur innerhalb des VPCs offen.
 
 ### Sicherheitsgruppe für Domain Controller
 
-| Regeltyp                     | Port(e)                 | Quelle  |
-| ---------------------------- | ----------------------- | ------- |
-| RDP                          | 3389  (TCP)             | 0.0.0.0 |
-| LDAP                         | 389 (TCP/UDP)           |         |
-| LDAPS                        | 636 (TCP)               |         |
-| Kerberos                     | 88 (TCP/UDP)            |         |
-| SMB                          | 445  (TCP)              |         |
-| DNS                          | 53 (TCP/UDP)            |         |
-| RPC                          | 135, 49152-65535  (TCP) |         |
-| ICMP                         | Alle                    |         |
-| Global Catalog               | 3268 (TCP)              |         |
-| Global Catalog SSL           | 3269 (TCP)              |         |
-| Kerberos Password Change/Set | 464 (TCP/UDP)           |         |
-|                              |                         |         |
+|**Regeltyp**|**Port(e)**|**Quelle**|
+|---|---|---|
+|RDP|3389 (TCP)|0.0.0.0/0|
+|LDAP|389 (TCP/UDP)|10.0.0.0/16|
+|LDAPS|636 (TCP)|10.0.0.0/16|
+|Kerberos|88 (TCP/UDP)|10.0.0.0/16|
+|SMB|445 (TCP)|10.0.0.0/16|
+|DNS|53 (TCP/UDP)|10.0.0.0/16|
+|RPC|135, 49152-65535 (TCP)|10.0.0.0/16|
+|ICMP|Alle|10.0.0.0/16|
+|Global Catalog|3268 (TCP)|10.0.0.0/16|
+|Global Catalog SSL|3269 (TCP)|10.0.0.0/16|
+|Kerberos Password|464 (TCP/UDP)|10.0.0.0/16|
 
 ### Sicherheitsgruppe für Clients
 
-| Regeltyp | Port(e)     | Beschreibung                             | Quelle                                           |
-| -------- | ----------- | ---------------------------------------- | ------------------------------------------------ |
-| RDP      | 3389        | Remote Desktop                           | 0.0.0.0                                          |
-| TCP      | 88          | Kerberos Authentication                  | 10.0.0.0/20 <br/>10.0.128.0/20<br/>10.0.144.0/20 |
-| TCP      | 135         | RPC Endpoint Mapper                      | 10.0.0.0/20 <br/>10.0.128.0/20<br/>10.0.144.0/20 |
-| TCP      | 139         | NetBIOS Session Service                  | 10.0.0.0/20 <br/>10.0.128.0/20<br/>10.0.144.0/20 |
-| TCP      | 389         | LDAP                                     | 10.0.0.0/20 <br/>10.0.128.0/20<br/>10.0.144.0/20 |
-| UDP      | 53          | DNS                                      | 10.0.0.0/20 <br/>10.0.128.0/20<br/>10.0.144.0/20 |
-| TCP      | 445         | SMB/CIFS (Dateifreigabe, AD-Operationen) | 10.0.0.0/20 <br/>10.0.128.0/20<br/>10.0.144.0/20 |
-| TCP      | 49152-65535 | RPC Ephemeral Ports                      | 10.0.0.0/20 <br/>10.0.128.0/20<br/>10.0.144.0/20 |
-| ICMP     | Alle        | Ping etc.                                | 10.0.0.0/20 <br/>10.0.128.0/20<br/>10.0.144.0/20 |
+|**Regeltyp**|**Port(e)**|**Beschreibung**|**Quelle**|
+|---|---|---|---|
+|RDP|3389|Remote Desktop|0.0.0.0/0|
+|TCP|88|Kerberos Auth|10.0.0.0/16|
+|TCP|135|RPC Mapper|10.0.0.0/16|
+|TCP|139|NetBIOS Session|10.0.0.0/16|
+|TCP|389|LDAP|10.0.0.0/16|
+|UDP|53|DNS|10.0.0.0/16|
+|TCP|445|SMB/CIFS|10.0.0.0/16|
+|TCP|49152-65535|RPC Ephemeral|10.0.0.0/16|
+|ICMP|Alle|Ping etc.|10.0.0.0/16|
 
 ---
 
@@ -90,75 +91,59 @@ Alle weiteren Ports sind nur innerhalb des VPCs offen.
 
 ### On-Premises Active Directory (AWS EC2)
 
-| Feld                                  | Wert                  |
-| ------------------------------------- | --------------------- |
-| Active Directory Third-Level-Domäne-1 | ec2.lukavukadin.m159     |
-| Öffentlicher UPN-Suffix (später)      | lukavukadin.ch |
-| Domänenadministrator                  | Administrator        |
-| Kennwort Domänenadministrator         |                       |
-| Kennwort-Demote (Herunterstufen)      |                       |
+|**Feld**|**Wert**|
+|---|---|
+|AD Third-Level-Domäne-1|ec2.lukavukadin.m159|
+|Öffentlicher UPN-Suffix|lukavukadin.ch|
+|Domänenadministrator|Administrator|
+|Kennwort|Schule2026!|
 
 ### Azure AD (Entra ID)
 
-| Feld                         | Wert |
-| ---------------------------- | ---- |
-| Entra AD Tenant Name         |      |
-| Azure Administrator (UPN)    |      |
-| Kennwort Azure Administrator |      |
-| Entra Connect Server (Name)  |      |
+|**Feld**|**Wert**|
+|---|---|
+|Entra AD Tenant Name|[Wird nach Azure Setup ergänzt]|
+|Azure Administrator (UPN)|[Deine Azure E-Mail]|
+|Entra Connect Server|dc1.ec2.lukavukadin.m159|
 
 ### AWS Managed AD
 
-| Feld                                  | Wert                                                 |
-| ------------------------------------- | ---------------------------------------------------- |
-| Active Directory Third-Level-Domäne-2 | z.b. aws.tbz.m159                                    |
-| Trust-Typ                             | Tree-Root Trust                                      |
-| AWS Managed Admin User                | admin                                                |
-| AWS Managed Admin Passwort            |                                                      |
-| IP-Adresse                            |                                                      |
-| DNS-Server 1                          |                                                      |
-| DNS-Server 2                          |                                                      |
-| Trust Passwort                        |                                                      |
-| Subnetz 1                             | z.b. M159-subnet-private1-us-east-1a (10.0.128.0/20) |
-| Subnetz 2                             | z.b. M159-subnet-private2-us-east-1b (10.0.144.0/20) |
+|**Feld**|**Wert**|
+|---|---|
+|AD Third-Level-Domäne-2|aws.lukavukadin.ch|
+|Trust-Typ|Tree-Root Trust|
+|AWS Managed Admin User|admin|
+|Trust Passwort|Trust2026!M159|
+|Subnetz 1|M159-subnet-private1-us-east-1a|
+|Subnetz 2|M159-subnet-private2-us-east-1b|
 
 ---
 
 ## 7. EC2-Instanzen
 
-| Komponente                                       | FQDN                     | Elastic IP         | Private IP (CIDR) | Subnetz                         | DNS-Server 1 | DNS-Server 2 | Lokaler Admin | Kennwort |
-| ------------------------------------------------ | ------------------------ | ------------------ | ----------------- | ------------------------------- | ------------ | ------------ | ------------- | -------- |
-| IaaS/OnPrem AD DC                                | z.b. dc.ec2.tbz.m159     |                    | z.b.  10.0.129.10 | M159-subnet-private1-us-east-1a |              |              | Administrator |          |
-| Windows Server (Client)                          | z.b. client.ec2.tbz.m159 | z.b. 44.198.134.36 | z.b.  10.0.129.20 | M159-subnet-public1-us-east-1a  |              |              | Administrator |          |
-| Managed AWS EC2 DC                               |                          |                    |                   |                                 |              |              |               |          |
-| Windows Server Admin Center (Managed AWS EC2 DC) |                          |                    |                   |                                 |              |              |               |          |
+|**Komponente**|**FQDN**|**Private IP**|**Subnetz**|**Lokaler Admin**|
+|---|---|---|---|---|
+|**IaaS/OnPrem DC**|dc1.ec2.lukavukadin.m159|10.0.128.10|Private 1|Administrator|
+|**Windows Client**|client.ec2.lukavukadin.m159|10.0.0.50|Public 1|Administrator|
+|**Admin Center**|admin.aws.lukavukadin.ch|10.0.0.60|Public 1|Administrator|
 
 ---
 
 ## 8. Abteilungen & Benutzer
 
-Definieren Sie je einen Benutzer dieser 3 Abteilungen 
+|**Abt.**|**Name**|**Benutzername**|**Vorname**|**Nachname**|**Kennwort**|**Bereich**|
+|---|---|---|---|---|---|---|
+|1|Sekretariat|s.vukadin|Sandra|Vukadin|Start2026!|intern|
+|2|Buchhaltung|b.meier|Beat|Meier|Start2026!|intern|
+|3|GL|l.vukadin|Luka|Vukadin|Start2026!|intern|
+|4|Promoter|p.tester|Peter|Tester|Start2026!|extern|
 
-| Abteilung | Name der Abteilung | Benutzername | Vorname | Nachname | Kennwort | Bereiche |
-| --------- | ------------------ | ------------ | ------- | -------- | -------- | -------- |
-| 1         | Sekretariat        |              |         |          |          | intern   |
-| 2         | Buchhaltung        |              |         |          |          | intern   |
-| 3         | GL                 |              |         |          |          | intern   |
-| 4         | Promoter           |              |         |          |          | extern   |
+---
 
 ## 09. Python-App-Registration (Entra-ID)
 
-| Name                    | Wert |
-| ----------------------- | ---- |
-| Directory (tenant) ID   |      |
-| Application (client) ID |      |
-| Client Secret ID        |      |
-
-
-
-## 10. Hinweise
-
-- Beginnen Sie mit der lokalen Domain-Umgebung und konfigurieren Sie **später den UPN-Suffix** mit der öffentlichen Domain.  
-- Achten Sie auf **richtige Portfreigaben** in den AWS Sicherheitsgruppen, insbesondere für RDP, SMB und AD-Dienste.  
-- Dokumentieren Sie alle IP-Adressen, Benutzernamen und Kennwörter konsequent in dieser Vorlage.
-- Diese Vorlage wurde für das Schuljahr 2025/26 komplett neu erstellt. Falls Ihnen etwas fehlt, ist die Lehrperson dankbar, wenn Sie ihr dies mitteilen.
+|**Name**|**Wert**|
+|---|---|
+|Directory (tenant) ID|[Wird in Azure generiert]|
+|Application (client) ID|[Wird in Azure generiert]|
+|Client Secret ID|[Wird in Azure generiert]|
