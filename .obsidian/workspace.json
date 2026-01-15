@@ -15,7 +15,7 @@
               "state": {
                 "file": "02_Initial_Setup/Initial-Setup.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Initial-Setup"
@@ -186,6 +186,7 @@
   },
   "active": "4a63b15ab6099649",
   "lastOpenFiles": [
+    "img/ipv6-deaktivieren.png",
     "img/test.png",
     "Pasted image 20260115105513.png",
     "02_Initial_Setup/cloud-init.md",
@@ -198,7 +199,6 @@
     "img/img_15.01.26_09.40.png",
     "Pasted image 20260115094012.png",
     "img/img_15.01.26_09.38.png",
-    "img/img_15.01.26_09.37.png",
     "README.md",
     "01_Planung/Projekt-Setup-Sheet.md",
     "img",

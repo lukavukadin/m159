@@ -2,6 +2,7 @@
 
 ### 1. Schritt: VPC erstellt
 <img width=90% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_15.01.26_08.29.png">
+
 -----
 ### 2. Schritt: Sicherheitsgruppe erstellt
 
@@ -13,7 +14,8 @@ Outbound Rules:
 
 wurde erstellt:
 <img width=90% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_15.01.26_08.50.png">
-----
+
+---
 ### 3. Schritt: EC2-Instanze erstellt
 
 3/3 Prüfung bestanden:
@@ -35,16 +37,15 @@ mit Server verbunden:
 ----
 
 ### 5. Schritt: Hostname setzen
-<img width=90% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_15.01.26_10.18.png">
+<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_15.01.26_10.18.png">
 
 
 ----
 
 ### 6. Schritt: Verstärkte Sicherheitskonfiguration ausschalten für IE (Desktop)
-<img width=90% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_15.01.26_10.33.png">
+<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_15.01.26_10.33.png">
 
-### 7. Schritt: Pv6 deaktivieren
+### 7. Schritt: IPv6 deaktivieren
 
-<img width=90% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_15.01.26_10.46.png">
-
+<img width=50% height=50% alt="ipv6-deaktivieren" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/ipv6-deaktivieren.png"
 
