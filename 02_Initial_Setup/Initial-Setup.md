@@ -44,7 +44,7 @@ mit Server verbunden:
 
 ### 6. Schritt: Verstärkte Sicherheitskonfiguration ausschalten für IE (Desktop)
 
-![[/img/img_15.01.26_10.33.png]]
+![[/img_15.01.26_10.33.png]]
 
 ### 7. Schritt: Pv6 deaktivieren
 

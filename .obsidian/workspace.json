@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Initial_Setup/Initial-Setup.md",
+                "file": "02_Initial_Setup/cloud-init.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Initial-Setup"
+              "title": "cloud-init"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Initial_Setup/Initial-Setup.md",
+                "file": "02_Initial_Setup/cloud-init.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von Initial-Setup öffnen"
+              "title": "Ausgehende Links von cloud-init öffnen"
             }
           },
           {
@@ -184,8 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f898c1cc5cd69eae",
+  "active": "4a63b15ab6099649",
   "lastOpenFiles": [
+    "02_Initial_Setup/Initial-Setup.md",
+    "02_Initial_Setup/cloud-init.md",
     "img/img_15.01.26_10.46.png",
     "img/img_15.01.26_10.33.png",
     "Pasted image 20260115103340.png",
@@ -196,12 +198,9 @@
     "img/img_15.01.26_09.38.png",
     "img/img_15.01.26_09.37.png",
     "img/img_15.01.26_09.35.png",
-    "02_Initial_Setup/cloud-init.md",
-    "02_Initial_Setup/Initial-Setup.md",
     "README.md",
     "01_Planung/Projekt-Setup-Sheet.md",
     "img",
-    "img/img_15.01.26_08.50.png",
     "02_Initial_Setup",
     "01_Planung"
   ]

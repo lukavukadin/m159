@@ -1,3 +1,4 @@
+```
 <powershell>
 # 1) Pfade und Hilfsfunktion fuer Verknuepfungen
 $DefaultDesktop = Join-Path $env:SystemDrive 'Users\Default\Desktop'
@@ -167,3 +168,4 @@ try {
 
 Write-Host "Fertig: Verknuepfungen, Ping, Explorer-Ansichten, Tastaturliste de-CH, Region/Datum/Zeit Schweiz (System/HKCU/Default) gesetzt."
 </powershell>
+```
