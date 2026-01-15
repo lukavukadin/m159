@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "02_Initial_Setup/Initial-Setup.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Initial-Setup"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "01_Planung/Projekt-Setup-Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise für README"
+              "title": "Rückverweise für Projekt-Setup-Sheet"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "02_Initial_Setup/Initial-Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von README öffnen"
+              "title": "Ausgehende Links von Initial-Setup öffnen"
             }
           },
           {
@@ -165,28 +165,44 @@
               "title": "Gliederung von README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Neue Base erstellen": false,
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graph-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "4a63b15ab6099649",
   "lastOpenFiles": [
-    "Projekt-Setup-Sheet.md",
-    "README.md"
+    "img_15.01.26_10.46.png",
+    "img_15.01.26_10.33.png",
+    "Pasted image 20260115103340.png",
+    "img_15.01.26_10.18.png",
+    "img_15.01.26_09.43.png",
+    "img_15.01.26_09.40.png",
+    "Pasted image 20260115094012.png",
+    "img_15.01.26_09.38.png",
+    "img/img_15.01.26_09.37.png",
+    "img/img_15.01.26_09.35.png",
+    "02_Initial_Setup/cloud-init.md",
+    "02_Initial_Setup/Initial-Setup.md",
+    "README.md",
+    "01_Planung/Projekt-Setup-Sheet.md",
+    "img",
+    "img/img_15.01.26_08.50.png",
+    "02_Initial_Setup",
+    "01_Planung"
   ]
 }
