@@ -48,5 +48,3 @@ mit Server verbunden:
 <img width=90% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_15.01.26_10.46.png">
 
 
-
-
