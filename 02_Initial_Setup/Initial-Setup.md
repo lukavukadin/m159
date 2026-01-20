@@ -55,14 +55,15 @@ mit Server verbunden:
 ### 8. Schritt: Explorer-Optionen (Check)
 
 
+Die Haken unter "File name extensions" und "Hidden items" war schon gesetzt:
 
+<img width=50% height=50% alt="Explorer-optionen" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_20.01.26_21.49.png">
+
+----
 ### 9. Schritt: Elastic IP
 
 Elastic ip noch erstellt, damit sich meine ip nicht immer ändert!
-
 <img width=50% height=50% alt="elastic-ip" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/elastic-ip.png">
 
-
 zugewiesen zu meiner instance
-
 <img width=50% height=50% alt="elastic-ip-zuweisen" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_20.01.26_21.44.png">
