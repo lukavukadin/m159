@@ -48,9 +48,9 @@ mit Server verbunden:
 ----
 ### 7. Schritt: IPv6 deaktivieren
 
-<img width=40% height=40% alt="ipv6-deaktivieren" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/ipv6-deaktivieren">
-
+<img width=40% height=40% alt="ipv6-deaktivieren" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/ipv6-deaktivieren.png">
 
 ----
 
 ### 8. Schritt: Explorer-Optionen (Check)
+
