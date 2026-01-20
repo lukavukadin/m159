@@ -74,3 +74,5 @@ zugewiesen zu meiner instance
 ###  10. Schritt: Windows Client Instanz starten
 
 
+<img width=80% height=80% alt="client-windows" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_20.01.26_22.05.png">
+
