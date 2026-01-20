@@ -43,9 +43,10 @@ mit Server verbunden:
 ----
 
 ### 6. Schritt: Verstärkte Sicherheitskonfiguration ausschalten für IE (Desktop)
+
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_15.01.26_10.33.png">
 
-	----
+----
 ### 7. Schritt: IPv6 deaktivieren
 
 <img width=40% height=40% alt="ipv6-deaktivieren" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/ipv6-deaktivieren.png">
@@ -53,7 +54,6 @@ mit Server verbunden:
 ----
 
 ### 8. Schritt: Explorer-Optionen (Check)
-
 
 Die Haken unter "File name extensions" und "Hidden items" war schon gesetzt:
 
