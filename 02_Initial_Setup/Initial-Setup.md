@@ -64,11 +64,11 @@ Die Haken unter "File name extensions" und "Hidden items" war schon gesetzt:
 
 Elastic ip noch erstellt, damit sich meine ip nicht immer ändert!
 
-<img width=100% height=100% alt="elastic-ip" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/elastic-ip.png">
+<img width=80% height=80% alt="elastic-ip" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/elastic-ip.png">
 
 zugewiesen zu meiner instance
 
-<img width=100% height=100% alt="elastic-ip-zuweisen" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_20.01.26_21.44.png">
+<img width=80% height=80% alt="elastic-ip-zuweisen" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_20.01.26_21.44.png">
 
 ----
 ###  10. Schritt: Windows Client Instanz starten
