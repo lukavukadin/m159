@@ -44,7 +44,7 @@ mit Server verbunden:
 
 ### 6. Schritt: Verstärkte Sicherheitskonfiguration ausschalten für IE (Desktop)
 
-<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_15.01.26_10.33.png">
+<img width=35% height=35% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_15.01.26_10.33.png">
 
 ----
 ### 7. Schritt: IPv6 deaktivieren
@@ -70,6 +70,7 @@ zugewiesen zu meiner instance
 
 <img width=100% height=100% alt="elastic-ip-zuweisen" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_20.01.26_21.44.png">
 
-
+----
 ###  10. Schritt: Windows Client Instanz starten
+
 
