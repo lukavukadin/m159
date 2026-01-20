@@ -56,5 +56,8 @@ mit Server verbunden:
 
 
 
-elastic ip noch erstellt, damit sich meine ip nicht immer ändert!
+### 9. Schritt: Elastic IP
+
+Elastic ip noch erstellt, damit sich meine ip nicht immer ändert!
+
 <img width=40% height=40% alt="ipv6-deaktivieren" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/elastic-ip.png">
