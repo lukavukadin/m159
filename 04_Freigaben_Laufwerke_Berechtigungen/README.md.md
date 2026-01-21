@@ -112,7 +112,7 @@ Der Benutzer für die externen Promoter wurde in der OU `Promoter` angelegt.
 ----
 ### 4. Schritt: Die Freigabe
 
-#### Zuerst habe ich den Hauptordner **"Daten"** im Netzwerk freigegeben. In den erweiterten Freigabe-Einstellungen habe ich einen Haken bei **"Share this folder"** gesetzt. Die Freigabeberechtigungen für die Gruppe **"Jeder"** habe ich auf **"Change"** und **"Read"** konfiguriert, um den Zugriff über das Netzwerk grundsätzlich zu ermöglichen:
+##### Zuerst habe ich den Hauptordner **"Daten"** im Netzwerk freigegeben. In den erweiterten Freigabe-Einstellungen habe ich einen Haken bei **"Share this folder"** gesetzt. Die Freigabeberechtigungen für die Gruppe **"Jeder"** habe ich auf **"Change"** und **"Read"** konfiguriert, um den Zugriff über das Netzwerk grundsätzlich zu ermöglichen:
 
 <img width=70% height=70% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_21.24.png">
 
@@ -120,7 +120,7 @@ Der Benutzer für die externen Promoter wurde in der OU `Promoter` angelegt.
 
 ### 5. Schritt: Vererbung deaktivieren
 
-#### Um die volle Kontrolle über die Unterordner zu erhalten und Standard-Zugriffe zu unterbinden, habe ich die Vererbung auf dem Ordner **"Daten"** deaktiviert.
+##### Um die volle Kontrolle über die Unterordner zu erhalten und Standard-Zugriffe zu unterbinden, habe ich die Vererbung auf dem Ordner **"Daten"** deaktiviert.
 
 Über **Security -> Advanced -> Disable inheritance** habe ich die Option **"Convert inherited permissions into explicit permissions on this object"** gewählt. Dies erlaubt es, die übernommenen Rechte manuell anzupassen. Anschliessend habe ich alle Standard-Benutzergruppen (wie z. B. `Users`) entfernt, sodass nur noch Administratoren und das System Zugriff haben:
 
