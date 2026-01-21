@@ -182,7 +182,6 @@ Passwort: Tbz12345
 
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_15.02.png">
 
-
 ##### Sowohl der Domain Controller (`.10`) als auch der Client (`.50`) sind nun korrekt mit ihrem FQDN hinterlegt. Dies verhindert Fehler bei der Identifizierung der Systeme im Netzwerk.
 
 <img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_15.03.png">
