@@ -141,13 +141,15 @@ Der Benutzer für die externen Promoter wurde in der OU `Promoter` angelegt.
 
 <img width=40% height=30% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_21.59.png">
 
-#### Im Ordner Extern: GRP_Extern hinzugefügt und berechtigung **Modify** noch gegeben:
+#### Im Ordner Extern: GRP_Extern hinzugefügt und Berechtigung **Modify** noch gegeben:
 
 <img width=40% height=30% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_22.02.png">
 
-
 ### 6.2 Ordner "Pool"
 
+#### Im Ordner Pool: GRP_Extern und GRP_Intern hinzugefügt beide mit der Berechtigung **Modify**:
+
+<img width=40% height=30% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_22.05.png">
 
 ### 6.3 Die Abteilungsordner
 
