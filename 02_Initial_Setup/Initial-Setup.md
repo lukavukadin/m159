@@ -79,6 +79,12 @@ zugewiesen zu meiner instance
 
 ### 11. Schritt: PC name geändert auf client
 
-<img width=80% height=80% alt="pc-name" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_11.10.png">
+<img width=60% height=60% alt="pc-name" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_11.10.png">
 
 
+### 12. Schritt: IE Enhanced Security Configuration auschalten
+
+<img width=60% height=60% alt="IEsecurty" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_11.15.png">
+
+
+### 13. Schritt: IPv6 deaktivieren & DNS-Server setzen
