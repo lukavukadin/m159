@@ -120,7 +120,9 @@ Der Benutzer für die externen Promoter wurde in der OU `Promoter` angelegt.
 
 ### 5. Schritt: Vererbung deaktivieren
 
-#### Ich ging wieder auf dem Hauptordner Daten, aber diesmal nicht unter Sharing sondern Securty dann auf Diable inheritance dort auf das erste convert inherited permissions into explcit permsssion on this object
+#### Um die volle Kontrolle über die Unterordner zu erhalten und Standard-Zugriffe zu unterbinden, habe ich die Vererbung auf dem Ordner **"Daten"** deaktiviert.
+
+Über **Security -> Advanced -> Disable inheritance** habe ich die Option **"Convert inherited permissions into explicit permissions on this object"** gewählt. Dies erlaubt es, die übernommenen Rechte manuell anzupassen. Anschliessend habe ich alle Standard-Benutzergruppen (wie z. B. `Users`) entfernt, sodass nur noch Administratoren und das System Zugriff haben:
 
 <img width=70% height=70% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_21.30.png">
 
