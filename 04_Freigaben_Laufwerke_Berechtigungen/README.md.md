@@ -51,6 +51,7 @@ Der Benutzer für die Buchhaltung wurde in der OU `Buchhaltung` angelegt.
 - **Gruppe:** `GRP_Buchhaltung` (Mitglied von `GRP_Intern`)
 
 <img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_20.48.png">
+
 ### GL
 
 Der Benutzer für die Geschäftsleitung wurde in der OU `GL` angelegt.
@@ -61,6 +62,10 @@ Der Benutzer für die Geschäftsleitung wurde in der OU `GL` angelegt.
     
 - **Gruppe:** `GRP_GL` (Mitglied von `GRP_Intern`)
 
+
+<img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_20.50.png">
+
+
 ### Promoter
 
 Der Benutzer für die externen Promoter wurde in der OU `Promoter` angelegt.
@@ -70,3 +75,6 @@ Der Benutzer für die externen Promoter wurde in der OU `Promoter` angelegt.
 - **Logon-Name:** `p.tester`
     
 - **Gruppe:** `GRP_Promoter` (Mitglied von `GRP_Extern`)
+
+
+<img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_20.51.png">
