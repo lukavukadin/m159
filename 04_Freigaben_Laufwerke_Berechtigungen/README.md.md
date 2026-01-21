@@ -82,5 +82,4 @@ Der Benutzer für die externen Promoter wurde in der OU `Promoter` angelegt.
 
 
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_20.51.png">
-
 <img width=50% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_20.59.png">
