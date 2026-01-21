@@ -1,4 +1,4 @@
-### 1. Schritt: Struktur im Active Directory (OUs & Gruppen)
+## 1. Schritt: Struktur im Active Directory (OUs & Gruppen)
 
 ### 1.1 OUs für Abteilungen erstellen (auf dc1)
 
@@ -11,6 +11,8 @@
 <img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_16.56.png">
 
 ### 1.2 Gruppen & Nesting (auf dc1)
+
+#### Hier habe ich alle Gruppen im OU Gruppen erstellt:
 
 <img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_17.03.png">
 
