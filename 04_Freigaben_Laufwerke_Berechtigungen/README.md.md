@@ -151,7 +151,7 @@ Der Benutzer für die externen Promoter wurde in der OU `Promoter` angelegt.
 
 <img width=40% height=30% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_22.05.png">
 
-### 6.3 Die Abteilungsordner
+### 6.3 Die "Abteilungsordner"
 
 #### 1. Sekretariat:
 
@@ -196,3 +196,12 @@ Gruppe:
 - GRP_Promoter hinzugefügt mit **Modify** Berechtigung (C)
 
 <img width=40% height=20% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_22.28.png">
+
+
+----
+
+## 7. Schritt ABE aktivieren
+
+#### Jetzt aktiviere ich ABE damit: Ein User nur noch die Ordner sieht, für die er auch wirklich Rechte hat. Wer kein Recht auf die "GL" hat, sieht den Ordner nicht einmal
+
+<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_22.36.png">
