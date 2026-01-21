@@ -114,4 +114,14 @@ Der Benutzer für die externen Promoter wurde in der OU `Promoter` angelegt.
 
 #### Zuerst habe ich den Hauptordner Daten freigegeben, indem ich den Hacken **Share this Folder** angeklickt habe und Permissions für Jeden Change und Read gegeben habe:
 
-<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_21.24.png">
+<img width=70% height=70% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_21.24.png">
+
+----
+
+### 5. Schritt: Vererbung deaktivieren
+
+#### Ich ging wieder auf dem Hauptordner Daten, aber diesmal nicht unter Sharing sondern Securty dann
+
+<img width=70% height=70% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_21.30.png">
+
+
