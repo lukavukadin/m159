@@ -233,6 +233,7 @@ Angemeldet als `s.vukadin`. Beim Versuch, den Pfad `\\dc1\Daten\Abteilungen\Buch
 
 #### 2. Test: GL Schreibrechte im Pool
 
+Angemeldet als `l.vukadin`. Im Ordner `\\dc1\Daten\Pool` konnte erfolgreich ein neues Dokument "Test_GL.txt" erstellt werden.
 
 <img width=100% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_23.25.png">
 
@@ -240,6 +241,7 @@ Angemeldet als `s.vukadin`. Beim Versuch, den Pfad `\\dc1\Daten\Abteilungen\Buch
 
 #### 3. Test: Promoter Zugriff auf Intern
 
+Angemeldet als `p.tester`. Der Ordner `Intern` wird unter `\\dc1\Daten\` aufgrund von ABE gar nicht erst angezeigt. Ein direkter Zugriff wird verweigert.
 
 
-
+<img width=100% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_23.29.png">
