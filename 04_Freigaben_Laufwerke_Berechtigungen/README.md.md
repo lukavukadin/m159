@@ -245,3 +245,6 @@ Angemeldet als `p.tester`. Der Ordner `Intern` wird unter `\\dc1\Daten\` aufgrun
 
 
 <img width=100% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_23.29.png">
+
+-----
+
