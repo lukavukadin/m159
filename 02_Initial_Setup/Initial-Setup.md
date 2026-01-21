@@ -20,7 +20,6 @@ wurde erstellt:
 
 3/3 Prüfung bestanden:
 <img width=90% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_15.01.26_09.35.png">
-
 Cloudinit Datei: [Hier](/02_Initial_Setup/cloud-init)
 
 ----
@@ -81,19 +80,20 @@ zugewiesen zu meiner instance
 
 <img width=60% height=60% alt="pc-name" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_11.10.png">
 
-
+----
 ### 12. Schritt: IE Enhanced Security Configuration auschalten
 
 <img width=60% height=60% alt="IEsecurty" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_11.15.png">
 
-
+----
 ### 13. Schritt: IPv6 deaktivieren & DNS-Server setzen
 
 IPv6 deaktiviert von client:
 
-<img width=60% height=60% alt="IEsecurty" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_11.21.png">
+<img width=40% height=40% alt="IEsecurty" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_11.21.png">
 
 
 Dns-Server gesetzt:
 
-<img width=60% height=60% alt="IEsecurty" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_11.24.png">
+<img width=40% height=40% alt="IEsecurty" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_11.24.png">
+
