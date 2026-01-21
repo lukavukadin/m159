@@ -135,14 +135,15 @@ Der Benutzer für die externen Promoter wurde in der OU `Promoter` angelegt.
 
 ## 6. Schritt: Umsetzung der Berechtigungs-Matrix
 
-
 ### 6.1 Ordner "Intern" & "Extern"
 
 #### Im Ordner Intern: GRP_Intern hinzugefügt und berechtigung **Modify** noch gegeben:
 
-<img width=70% height=70% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_21.59.png">
+<img width=40% height=30% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_21.59.png">
 
+#### Im Ordner Extern: GRP_Extern hinzugefügt und berechtigung **Modify** noch gegeben:
 
+<img width=40% height=30% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_22.02.png">
 
 
 ### 6.2 Ordner "Pool"
