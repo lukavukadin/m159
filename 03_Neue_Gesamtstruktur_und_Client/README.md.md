@@ -138,3 +138,4 @@ Passwort: Tbz12345
 ### 5. Schritt: Client in die Domäne einbinden (Domain Join)
 
 
+<img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_14.02.png">
