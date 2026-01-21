@@ -87,6 +87,8 @@ Der Benutzer für die externen Promoter wurde in der OU `Promoter` angelegt.
 
 ## 3. Schritt: Ordnerstruktur auf dem Laufwerk C: (dc1)
 
-
+#### Ich habe jetzt Ordner aufgestellt wie es in der Berechtigungsmatrix steht:
 
 <img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_21.04.png">
+
+
