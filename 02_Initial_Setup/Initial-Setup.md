@@ -88,3 +88,12 @@ zugewiesen zu meiner instance
 
 
 ### 13. Schritt: IPv6 deaktivieren & DNS-Server setzen
+
+IPv6 deaktiviert von client:
+
+<img width=60% height=60% alt="IEsecurty" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_11.21.png">
+
+
+Dns-Server gesetzt:
+
+<img width=60% height=60% alt="IEsecurty" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_11.24.png">
