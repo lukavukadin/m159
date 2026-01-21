@@ -174,9 +174,11 @@ Passwort: Tbz12345
 
 ##### Zuerst habe ich ein neues Organizational Unit erstellt namens "Group":
 
-
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_16.04.png">
 
+##### Dann habe ich die Beiden Gruppen "GRP_RDP_Admins" und "GRP_RDP_Users" darin erstellt
+
+<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_16.06.png">
 
 ##### 6.2 Zuweisung
 ##### Auf dem Client wurde der Fernzugriff aktiviert, damit sich Administratoren und berechtigte Benutzer anmelden können. **Status:** Die Option **"Allow remote connections to this computer"** ist aktiv.
