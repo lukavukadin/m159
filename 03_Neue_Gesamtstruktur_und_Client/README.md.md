@@ -46,23 +46,24 @@ Passwort: Tbz12345
 
 ### 3. Schritt: DNS-Konfiguration
 
-
+##### Unter Tools gegangen und DNS ausgewählt:
 
 <img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_12.21.png">
 
+##### Dann auf meinem DNS rechtsklick gedrückt und auf properties gegangen:
 
 <img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_12.22.png">
 
 
-
-
+##### Dannach auf Frowarders und dort auf Edit
 <img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_12.23.png">
 
 
+##### Hier habe ich die IP 9.9.9.9 hinzugefügt:
 
+<img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_12.28.png">
 
-
-
+**Begründung:** Quad9 (9.9.9.9) legt einen höheren Fokus auf Datenschutz (keine Speicherung der IP) und blockiert automatisch den Zugriff auf bekannte bösartige Webseiten (Phishing/Malware), was die Sicherheit eines Servers erhöht.
 
 
 ----
