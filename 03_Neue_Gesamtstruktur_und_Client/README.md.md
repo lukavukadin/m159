@@ -153,13 +153,11 @@ Passwort: Tbz12345
 <img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_14.18.png">
 
 
-
 ##### Ich habe nun nochmal versucht auf die Domain zu joinen:
 
 <img width=40% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_14.02.png">
 
 
-##### Ich habe es geschafft den Client auf meine Domain hinzuzufügen
-
+##### Ich habe es geschafft den Client auf meine Domain hinzuzufügen!:
 
 <img width=40% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_14.24.png">

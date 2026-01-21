@@ -32,12 +32,12 @@ Diese Umgebung umfasst:
 
 ## 3. Ressourcen
 
-|**Feld**|**Wert**|
-|---|---|
-|Active Directory Second-Level-Domäne|lukavukadin.m159|
-|Geplante öffentliche Domain (UPN)|lukavukadin.ch|
-|Azure Education Account| luka.vukadin@edu.tbz.ch |
-|Azure Education Account Passwort|sdf3432lk4nsdfäö$3244|
+| **Feld**                             | **Wert**                |
+| ------------------------------------ | ----------------------- |
+| Active Directory Second-Level-Domäne | lukavukadin.m159        |
+| Geplante öffentliche Domain (UPN)    | lukavukadin.ch          |
+| Azure Education Account              | luka.vukadin@edu.tbz.ch |
+| Azure Education Account Passwort     | sdf3432lk4nsdfäö$3244   |
 
 ---
 
