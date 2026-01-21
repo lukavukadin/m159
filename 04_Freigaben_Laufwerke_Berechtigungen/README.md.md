@@ -16,7 +16,11 @@
 
 <img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_17.03.png">
 
-#### Unter GRP_Inter die Abteilungen Buchaltung, GL und Sekretariat hinzugefügt:
+#### Unter GRP_Intern habe ich die Abteilungen Buchhaltung, GL und Sekretariat hinzugefügt:
 
 <img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_17.07.png">
 
+#### Unter GRP_Extern habe ich die Abteilungen Buchhaltung, GL und Sekretariat hinzugefügt:
+
+
+<img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_20.33.png">
