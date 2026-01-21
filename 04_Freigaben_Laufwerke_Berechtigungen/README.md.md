@@ -91,4 +91,7 @@ Der Benutzer für die externen Promoter wurde in der OU `Promoter` angelegt.
 
 <img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_21.04.png">
 
+#### Als erstes habe ich den Ordner Daten im Laufwerk C: erstellt, dazu die erforderlichen unterordner  
 
+
+<img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_21.11.png">
