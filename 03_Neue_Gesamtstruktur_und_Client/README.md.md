@@ -75,17 +75,14 @@ Passwort: Tbz12345
 
 <img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_12.34.png">
 
-#####
-
-##### Primary zone ausgewählt - und nachschauen ob store the zon ein active Directory gesetzt war
+##### Primary zone ausgewählt - und nachschauen ob store the zon ein active Directory gesetzt war:
 
 <img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_12.37.png">
 
 
+##### Replikations-Bereich ist gut wie es schon angekreuzt ist:
 
-
-
-
+<img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_12.39.png">
 
 
 
