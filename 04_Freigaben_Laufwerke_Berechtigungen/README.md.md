@@ -112,6 +112,6 @@ Der Benutzer für die externen Promoter wurde in der OU `Promoter` angelegt.
 ----
 ### 4. Schritt: Die Freigabe
 
-#### Zuerst habe ich den Hauptordner Daten freigegeben, indem ich den Hacken **Share this folder** angeklickt habe und Permissions für Jeden Change und Read gegeben habe:
+#### Zuerst habe ich den Hauptordner Daten freigegeben, indem ich den Hacken **Share this Folder** angeklickt habe und Permissions für Jeden Change und Read gegeben habe:
 
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_21.24.png">
