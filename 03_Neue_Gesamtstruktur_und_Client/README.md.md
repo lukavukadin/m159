@@ -172,18 +172,22 @@ Passwort: Tbz12345
 
 ##### 6.1 Gruppen & Benutzer
 
-##### Zuerst habe ich ein neues Organizational Unit erstellt namens "Group":
+##### Zuerst habe ich auf dem Domain Controller eine neue **Organizational Unit (OU)** namens "Group" erstellt:
 
 <img width=30% height=30% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_16.04.png">
 
-##### Dann habe ich die Beiden Gruppen "GRP_RDP_Admins" und "GRP_RDP_Users" darin erstellt
+##### Darin wurden zwei Sicherheitsgruppen angelegt:
 
-<img width=30% height=30% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_16.06.png">
+- **GRP_RDP_Admins**: Für Benutzer mit administrativen Fernzugriffsrechten.
+    
+- **GRP_RDP_Users**: Für Standard-Benutzer mit eingeschränkten Rechten.
+
+<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_16.06.png">
 
 ##### 6.2 Zuweisung auf dem Client
-##### Ich habe jetzt den Client den beiden Gruppen hinzugefügt
+##### Im letzten Schritt habe ich diese beiden Domänen-Gruppen lokal auf dem Client unter den **Remote Desktop Users** hinzugefügt.
 
-<img width=30% height=30% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_16.14.png">
+<img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_16.14.png">
 
 
 -----
