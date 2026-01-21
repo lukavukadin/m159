@@ -84,6 +84,7 @@ Passwort: Tbz12345
 
 <img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_12.39.png">
 
+##### Bei der IP-Version festlegen habe ich die IPv4 Reverse Lookup Zone ausgewählt
 
 ##### Unter **Network ID** die drei Segemente meiner internet IP-Adresse eingegeben:
 
@@ -92,10 +93,10 @@ Passwort: Tbz12345
 
 
 
+##### Dynamische Updates habe ich das kreuzchen gelassen wie es ist:
 
 
-
-
+<img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_12.43.png">
 
 
 
