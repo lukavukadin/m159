@@ -102,7 +102,7 @@ Passwort: Tbz12345
 #### 3.3 PTR-Record aktualisieren:
 
 
-
+<img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_13.38.png">
 
 
 
