@@ -135,7 +135,16 @@ Der Benutzer für die externen Promoter wurde in der OU `Promoter` angelegt.
 
 ## 6. Schritt: Umsetzung der Berechtigungs-Matrix
 
-### 6.1 Ordner "Intern" & "Extern"
+### 6.1 Ordner "Abteilungen"
+
+#### Im Ordner Abteilungen: GRP_Intern hinzugefügt und berechtigung **Read & execute**  gegeben:
+
+
+<img width=40% height=30% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_23.13.png">
+
+
+
+### 6.2 Ordner "Intern" & "Extern"
 
 #### Im Ordner Intern: GRP_Intern hinzugefügt und berechtigung **Modify** noch gegeben:
 
@@ -145,13 +154,13 @@ Der Benutzer für die externen Promoter wurde in der OU `Promoter` angelegt.
 
 <img width=40% height=30% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_22.02.png">
 
-### 6.2 Ordner "Pool"
+### 6.3 Ordner "Pool"
 
 #### Im Ordner Pool: GRP_Extern und GRP_Intern hinzugefügt beide mit der Berechtigung **Modify**:
 
 <img width=40% height=30% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_22.05.png">
 
-### 6.3 Die "Abteilungsordner"
+### 6.4 Die "Abteilungsordner"
 
 #### 1. Sekretariat:
 
@@ -214,5 +223,7 @@ Gruppe:
 
 ##### Bevor ich es testen konnte musste ich noch zuerst die Users die ich angelget habe in der Gruppe RDP hinzufügen:
 
+<img width=40% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_22.50.png">
 
-<img width=70% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_22.50.png">
+
+
