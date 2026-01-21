@@ -101,13 +101,14 @@ Passwort: Tbz12345
 -----
 #### 3.3 PTR-Record aktualisieren:
 
+Unter meiner Domain luavukadin.m159, auf dem dc1 unter properties den hacken gesetzt bei updaate associated pointer 
 
-<img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_13.38.png">
-
-
-
+<img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_13.38.png">
 
 
+
+
+<img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_13.40.png">
 
 
 
