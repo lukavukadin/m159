@@ -119,13 +119,26 @@ Passwort: Tbz12345
 
 
 
+<img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_13.56.png">
+
+
+
+
+
+
+
 ----
 ### 4. Schritt: AD-Papierkorb aktivieren
 
-Befehl (PowerShell auf dc1):
+##### Um eine zusätzliche Sicherheitsebene gegen versehentliches Löschen von Objekten (Benutzer, Gruppen) zu schaffen, habe ich das **Recycle Bin Feature** via PowerShell für die gesamte Gesamtstruktur aktiviert.
+
+**Befehl (PowerShell auf dc1):**
 
 `Enable-ADOptionalFeature -Identity 'Recycle Bin Feature' -Scope ForestOrConfigurationSet -Target 'lukavukadin.m159'
 
 <img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_13.54.png">
+
 ----
 ### 5. Schritt: Client in die Domäne einbinden (Domain Join)
+
+
