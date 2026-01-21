@@ -85,7 +85,10 @@ Passwort: Tbz12345
 <img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_12.39.png">
 
 
+##### Unter **Network ID** die drei Segemente meiner internet IP-Adresse eingegeben:
 
+
+<img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_12.41.png">
 
 
 
