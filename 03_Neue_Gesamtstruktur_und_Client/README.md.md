@@ -174,7 +174,7 @@ Passwort: Tbz12345
 
 ##### Zuerst habe ich ein neues Organizational Unit erstellt namens "Group":
 
-<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_16.04.png">
+<img width=30% height=30% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_16.04.png">
 
 ##### Dann habe ich die Beiden Gruppen "GRP_RDP_Admins" und "GRP_RDP_Users" darin erstellt
 
