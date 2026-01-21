@@ -137,16 +137,33 @@ Passwort: Tbz12345
 ----
 ### 5. Schritt: Client in die Domäne einbinden (Domain Join)
 
-##### Ich habe zuerst den Port-Check gemacht und gesehen das TCP: False war für den Port 445, das heisst wir müssen in Aktivieren in der Sicherheitsgruppe
-
+##### Der Domain Join schlug fehl, da Port 445 blockiert war. Der Test via PowerShell bestätigte dies: **TcpTestSucceeded : False**.
 
 <img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_14.08.png">
 
 
-Deswegen habe ich jetzt eine neue Sicherheitsregel erstellt. 
+##### Deswegen habe ich in der AWS Security Group  eine Regel für **Alle TCP**-Ports aus dem Subnetz **10.0.0.0/24** hinzugefügt. Ich habe **10.0.0.0/24** gewählt, da dies exakt mein Subnetz abdeckt und unnötige Zugriffe von ausserhalb (Best Practice) verhindert.
 
 
-<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_14.14.png">
+<img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_14.14.png">
+
+
+##### Jetzt war der Port-Check erfolgreich:
+
+
+<img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_14.18.png">
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
