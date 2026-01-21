@@ -114,8 +114,9 @@ Passwort: Tbz12345
 
 ##### Um die korrekte Funktion der **Reverse-Lookup-Zone** und des **PTR-Records** zu validieren, habe ich einen Test mittels `nslookup` im Terminal durchgeführt.
 
+<img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_13.47.png">
 
-<img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_13.47.png">
+
 
 
 
