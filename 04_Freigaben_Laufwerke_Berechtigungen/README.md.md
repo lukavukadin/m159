@@ -202,6 +202,11 @@ Gruppe:
 
 ## 7. Schritt ABE aktivieren
 
-#### Jetzt aktiviere ich ABE damit: Ein User nur noch die Ordner sieht, für die er auch wirklich Rechte hat. Wer kein Recht auf die "GL" hat, sieht den Ordner nicht einmal
+#### Jetzt aktiviere ich ABE damit: Ein User nur noch die Ordner sieht, für die er auch wirklich Rechte hat. Wer kein Recht auf die "GL" hat, sieht den Ordner nicht einmal.
 
-<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_22.36.png">
+##### Diese habe ich unter "File and Storage Services" -> "Shares" -> Freigabe "Daten" Rechtsklick drauf -> "Properties" -> "Settings" -> Haken bei "Enable access-based enumeration"
+
+<img width=70% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_22.36.png">
+
+----
+
