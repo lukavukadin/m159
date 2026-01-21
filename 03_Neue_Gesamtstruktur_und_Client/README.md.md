@@ -7,29 +7,29 @@
 ----
 ### 2. Schritt: `dc1` promoten
 
-**Deployment Configuration:**
+##### Deployment Configuration:
 
 <img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_11.49.png">
 
 
-**Domain Controller Options:**
+##### Domain Controller Options:
 
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_11.51.png">
 Passwort: Tbz12345
 
 
-**DNS Options (einfach überspringen, meldung kommt da ich die Root-Instanz gerade erst erstellte):**
+##### DNS Options (einfach überspringen, meldung kommt da ich die Root-Instanz gerade erst erstellte):
 
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_11.55.png">
 
-**Additional Options (NetBIOS):*
+##### Additional Options (NetBIOS):
 
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_11.58.png">
 
-**Paths & Review (lassen wie es ist):**
+##### Paths & Review (lassen wie es ist):
 
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_12.00.png">
 
-**Installation:**
+##### Installation:
 
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_12.01.png">
