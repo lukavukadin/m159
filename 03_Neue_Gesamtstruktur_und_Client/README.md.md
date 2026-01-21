@@ -75,6 +75,29 @@ Passwort: Tbz12345
 
 <img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_12.34.png">
 
+#####
+
+##### Primary zone ausgewählt - und nachschauen ob store the zon ein active Directory gesetzt war
+
+<img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_12.37.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### 3.3 PTR-Record aktualisieren:
 
