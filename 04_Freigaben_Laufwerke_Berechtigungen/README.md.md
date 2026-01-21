@@ -25,7 +25,7 @@
 <img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_20.33.png">
 
 ----
-### 2. Schritt: Benutzer anlegen
+## 2. Schritt: Benutzer anlegen
 
 ### Sekretariat
 
@@ -110,7 +110,7 @@ Der Benutzer für die externen Promoter wurde in der OU `Promoter` angelegt.
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_21.15.png">
 
 ----
-### 4. Schritt: Die Freigabe
+## 4. Schritt: Die Freigabe
 
 ##### Zuerst habe ich den Hauptordner **"Daten"** im Netzwerk freigegeben. In den erweiterten Freigabe-Einstellungen habe ich einen Haken bei **"Share this folder"** gesetzt. Die Freigabeberechtigungen für die Gruppe **"Jeder"** habe ich auf **"Change"** und **"Read"** konfiguriert, um den Zugriff über das Netzwerk grundsätzlich zu ermöglichen:
 
@@ -118,14 +118,53 @@ Der Benutzer für die externen Promoter wurde in der OU `Promoter` angelegt.
 
 ----
 
-### 5. Schritt: Vererbung deaktivieren
+## 5. Schritt: Vererbung deaktivieren
 
-##### Um die volle Kontrolle über die Unterordner zu erhalten und Standard-Zugriffe zu unterbinden, habe ich die Vererbung auf dem Ordner **"Daten"** deaktiviert.
+#### Um die volle Kontrolle über die Unterordner zu erhalten und Standard-Zugriffe zu unterbinden, habe ich die Vererbung auf dem Ordner **"Daten"** deaktiviert.
 
 Über **Security -> Advanced -> Disable inheritance** habe ich die Option **"Convert inherited permissions into explicit permissions on this object"** gewählt. Dies erlaubt es, die übernommenen Rechte manuell anzupassen. Anschliessend habe ich alle Standard-Benutzergruppen (wie z. B. `Users`) entfernt, sodass nur noch Administratoren und das System Zugriff haben:
 
 <img width=70% height=70% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_21.30.png">
 
-#### Hier sieht man das nur noch System/Admins drin sind:
+##### Hier sieht man das nur noch System/Admins drin sind:
 
 <img width=70% height=70% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_21.42.png">
+
+
+----
+
+## 6. Schritt: Umsetzung der Berechtigungs-Matrix
+
+
+### 6.1 Ordner "Intern" & "Extern"
+
+#### Im Ordner Intern: GRP_Intern hinzugefügt und berechtigung **Modify** noch gegeben:
+
+<img width=70% height=70% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_21.59.png">
+
+
+
+
+### 6.2 Ordner "Pool"
+
+
+### 6.3 Die Abteilungsordner
+
+
+1. **Sekretariat:**
+
+
+
+
+2. **Buchhaltung:**
+
+
+
+
+3. **GL (Geschäftsleitung):**
+
+
+
+
+4. **Promoter:**
+
