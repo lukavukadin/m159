@@ -91,7 +91,18 @@ Der Benutzer für die externen Promoter wurde in der OU `Promoter` angelegt.
 
 <img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_21.04.png">
 
-#### Als erstes habe ich den Ordner Daten im Laufwerk C: erstellt, dazu die erforderlichen unterordner  
+#### Als erstes habe ich den Ordner Daten im Laufwerk C: erstellt, dazu die erforderlichen Unterordner: 
 
+- `C:\Daten\Pool`
+- `C:\Daten\Intern`
+- `C:\Daten\Extern`
+- `C:\Daten\Abteilungen`
 
-<img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_21.11.png">
+<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_21.11.png">
+
+#### Dannach habe ich im Ordner Abteilungen Unterordner erstellt mit den vier Abteilungen:
+
+- `C:\Daten\Abteilungen\Sekretariat`
+- `C:\Daten\Abteilungen\Buchhaltung`
+- `C:\Daten\Abteilungen\GL`
+- `C:\Daten\Abteilungen\Promoter`
