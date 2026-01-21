@@ -119,24 +119,12 @@ Passwort: Tbz12345
 
 
 
-
-----
-
-
-
-
-
-
-
-
-
-
-
-
-
 ----
 ### 4. Schritt: AD-Papierkorb aktivieren
 
+Befehl (PowerShell auf dc1):
+
+`Enable-ADOptionalFeature -Identity 'Recycle Bin Feature' -Scope ForestOrConfigurationSet -Target 'lukavukadin.m159'
 
 
 
