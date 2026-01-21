@@ -101,18 +101,25 @@ Passwort: Tbz12345
 -----
 #### 3.3 PTR-Record aktualisieren:
 
-Unter meiner Domain luavukadin.m159, auf dem dc1 unter properties den hacken gesetzt bei updaate associated pointer 
+##### Um sicherzustellen, dass die IP-Adresse des Domain Controllers korrekt aufgelöst werden kann, habe ich in den Eigenschaften des Host-Eintrags (**dc1**) innerhalb der Forward-Lookup-Zone `lukavukadin.m159` die Option **"Update associated pointer (PTR) record"** aktiviert.
 
 <img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_13.38.png">
 
 
 
-Hier sehen wir jetzt einen neun Eintrag mit dem Namen **`10.0.0.10`** und dem Typ **Pointer (PTR)**
+##### Durch diese Einstellung wurde in der zuvor erstellten **Reverse-Lookup-Zone** automatisch ein neuer Zeiger-Eintrag (**PTR**) mit der IP **`10.0.0.10`** generiert. Dieser verweist nun korrekt auf den vollqualifizierten Domänennamen (FQDN) `dc1.lukavukadin.m159`.
 
-<img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_13.40.png">
+<img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_13.40.png">
+
+
+##### Um die korrekte Funktion der **Reverse-Lookup-Zone** und des **PTR-Records** zu validieren, habe ich einen Test mittels `nslookup` im Terminal durchgeführt.
+
+
+<img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_13.47.png">
 
 
 
+----
 
 
 
