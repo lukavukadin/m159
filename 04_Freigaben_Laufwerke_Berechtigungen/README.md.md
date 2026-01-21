@@ -2,8 +2,16 @@
 
 ### 1.1 OUs für Abteilungen erstellen (auf dc1)
 
-#### Als erstes habe ich ein OU für den Hauptordner erstellt und zwar "M159_Unternehmen" darin ein Unterordner Abteliungen und den vorhin erstellten OU Group umbennant auf Gruppen und hierhin geschoben. 
+#### Für eine saubere Verwaltung habe ich die Haupt-OU **`M159_Unternehmen`** erstellt. Diese unterteilt  in:
+
+- **`Abteilungen`**: Enthält OUs für die Benutzer (Sekretariat, GL, Buchhaltung, Promoter).
+    
+- **`Gruppen`**: Zentraler Ort für alle Sicherheitsgruppen (ehemals "Group" habe ich verschoben).
 
 <img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_16.56.png">
+
+### 1.2 Gruppen & Nesting (auf dc1)
+
+<img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_17.03.png">
 
 
