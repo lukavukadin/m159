@@ -117,7 +117,7 @@ Passwort: Tbz12345
 <img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_13.47.png">
 
 
-
+##### Um sicherzustellen, dass der Client den Domain Controller im Netzwerk finden kann, habe ich ein `nslookup` auf die IP des DCs durchgeführt.
 
 <img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_13.56.png">
 
