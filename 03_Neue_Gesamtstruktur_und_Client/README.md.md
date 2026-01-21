@@ -140,7 +140,7 @@ Passwort: Tbz12345
 ##### Ich habe zuerst den Port-Check gemacht und gesehen das TCP: False war für den Port 445, das heisst wir müssen in Aktivieren in der Sicherheitsgruppe
 
 
-<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_14.08.png">
+<img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_14.08.png">
 
 
 Deswegen habe ich jetzt eine neue Sicherheitsregel erstellt. 
