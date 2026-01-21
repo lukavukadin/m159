@@ -168,9 +168,20 @@ Passwort: Tbz12345
 
 -----
 
-### 6. Schritt: Remote Desktop (RDP) für User erlauben
+### 6. Schritt: Manueller PTR-Eintrag für den Client (DNS Fix)
 
-##### 6.1 Gruppen & Benutzer
+##### Da die automatische Registrierung in Cloud-Umgebungen manchmal verzögert ist, habe ich den **PTR-Record** für den Client manuell in der Reverse-Lookup-Zone ergänzt.
+
+<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_15.02.png">
+
+##### Sowohl der Domain Controller (`.10`) als auch der Client (`.50`) sind nun korrekt mit ihrem FQDN hinterlegt. Dies verhindert Fehler bei der Identifizierung der Systeme im Netzwerk.
+
+<img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_15.03.png">
+
+---
+### 7. Schritt: Remote Desktop (RDP) für User erlauben
+
+##### 7.1 Gruppen & Benutzer
 
 ##### Zuerst habe ich auf dem Domain Controller eine neue **Organizational Unit (OU)** namens "Group" erstellt:
 
@@ -184,20 +195,8 @@ Passwort: Tbz12345
 
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_16.06.png">
 
-##### 6.2 Zuweisung auf dem Client
+##### 7.2 Zuweisung auf dem Client
 ##### Im letzten Schritt habe ich diese beiden Domänen-Gruppen lokal auf dem Client unter den **Remote Desktop Users** hinzugefügt.
 
 <img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_16.14.png">
 
-
------
-
-### 7. Schritt: Manueller PTR-Eintrag für den Client (DNS Fix)
-
-##### Da die automatische Registrierung in Cloud-Umgebungen manchmal verzögert ist, habe ich den **PTR-Record** für den Client manuell in der Reverse-Lookup-Zone ergänzt.
-
-<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_15.02.png">
-
-##### Sowohl der Domain Controller (`.10`) als auch der Client (`.50`) sind nun korrekt mit ihrem FQDN hinterlegt. Dies verhindert Fehler bei der Identifizierung der Systeme im Netzwerk.
-
-<img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_15.03.png">
