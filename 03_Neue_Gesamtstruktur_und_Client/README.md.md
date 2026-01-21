@@ -46,6 +46,8 @@ Passwort: Tbz12345
 
 ### 3. Schritt: DNS-Konfiguration
 
+#### 3.1 DNS-Forwarder (Weiterleitung):
+
 ##### Unter Tools gegangen und DNS ausgewählt:
 
 <img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_12.21.png">
@@ -55,7 +57,8 @@ Passwort: Tbz12345
 <img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_12.22.png">
 
 
-##### Dannach auf Frowarders und dort auf Edit
+##### Dannach auf Frowarders und dort auf Edit:
+
 <img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_12.23.png">
 
 
@@ -64,6 +67,17 @@ Passwort: Tbz12345
 <img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_12.28.png">
 
 **Begründung:** Quad9 (9.9.9.9) legt einen höheren Fokus auf Datenschutz (keine Speicherung der IP) und blockiert automatisch den Zugriff auf bekannte bösartige Webseiten (Phishing/Malware), was die Sicherheit eines Servers erhöht.
+
+
+#### 3.2 Reverse-Lookup-Zone einrichten:
+
+##### Jetzt musste ich eine neue Zone erstellen:
+
+<img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_12.34.png">
+
+
+#### 3.3 PTR-Record aktualisieren:
+
 
 
 ----
