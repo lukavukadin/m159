@@ -164,4 +164,19 @@ Passwort: Tbz12345
 
 Der Erfolg des Domain Joins habe ich direkt auf dem Domain Controller (dc1) überprüft. Der Host **`CLIENT`** wurde automatisch im Container **Computers** angelegt.
 
-<img width=40% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_14.45.png">
+<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_14.45.png">
+
+
+### 6. Schritt: Remote Desktop (RDP) für User erlauben
+
+
+<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_14.58.png">
+
+
+
+
+
+
+
+
+### 7. Schritt: Manueller PTR-Eintrag für den Client (DNS Fix)
