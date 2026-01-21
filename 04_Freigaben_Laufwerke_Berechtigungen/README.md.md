@@ -100,9 +100,11 @@ Der Benutzer für die externen Promoter wurde in der OU `Promoter` angelegt.
 
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_21.11.png">
 
-#### Dannach habe ich im Ordner Abteilungen Unterordner erstellt mit den vier Abteilungen:
+#### Danach habe ich im Ordner Abteilungen Unterordner erstellt mit den vier Abteilungen:
 
 - `C:\Daten\Abteilungen\Sekretariat`
 - `C:\Daten\Abteilungen\Buchhaltung`
 - `C:\Daten\Abteilungen\GL`
 - `C:\Daten\Abteilungen\Promoter`
+
+<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_21.15.png">
