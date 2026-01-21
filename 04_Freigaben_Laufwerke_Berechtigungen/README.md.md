@@ -20,7 +20,50 @@
 
 <img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_17.07.png">
 
-#### Unter GRP_Extern habe ich die Abteilungen Buchhaltung, GL und Sekretariat hinzugefügt:
-
+#### Unter GRP_Extern habe ich die Abteilung Promoter hinzugefügt:
 
 <img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_20.33.png">
+
+
+### 2. Schritt: Benutzer anlegen
+
+### Sekretariat
+
+#### Der Benutzer für das Sekretariat wurde in der OU `Sekretariat` angelegt.
+
+- **Name:** Sandra Vukadin
+    
+- **Logon-Name:** `s.vukadin`
+    
+- **Gruppe:** `GRP_Sekretariat` (Mitglied von `GRP_Intern`)
+
+<img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_20.46.png">
+### Buchhaltung
+
+Der Benutzer für die Buchhaltung wurde in der OU `Buchhaltung` angelegt.
+
+- **Name:** Beat Meier
+    
+- **Logon-Name:** `b.meier`
+    
+- **Gruppe:** `GRP_Buchhaltung` (Mitglied von `GRP_Intern`)
+
+### GL
+
+Der Benutzer für die Geschäftsleitung wurde in der OU `GL` angelegt.
+
+- **Name:** Luka Vukadin
+    
+- **Logon-Name:** `l.vukadin`
+    
+- **Gruppe:** `GRP_GL` (Mitglied von `GRP_Intern`)
+
+### Promoter
+
+Der Benutzer für die externen Promoter wurde in der OU `Promoter` angelegt.
+
+- **Name:** Peter Tester
+    
+- **Logon-Name:** `p.tester`
+    
+- **Gruppe:** `GRP_Promoter` (Mitglied von `GRP_Extern`)
