@@ -121,11 +121,7 @@ Passwort: Tbz12345
 
 <img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_13.56.png">
 
-
-
-
-
-
+**Ergebnis**: Die Namensauflösung funktioniert einwandfrei. Der Client erreicht den DNS-Dienst des DCs, was die Basis für die Aufnahme in die Domäne bildet.
 
 ----
 ### 4. Schritt: AD-Papierkorb aktivieren
