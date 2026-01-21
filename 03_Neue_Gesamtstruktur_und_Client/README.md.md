@@ -161,3 +161,8 @@ Passwort: Tbz12345
 ##### Ich habe es geschafft den Client auf meine Domain hinzuzufügen!:
 
 <img width=40% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_14.24.png">
+
+
+Der Erfolg des Domain Joins habe ic direkt auf dem Domain Controller (dc1) überprüft.
+
+<img width=40% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_14.45.png">
