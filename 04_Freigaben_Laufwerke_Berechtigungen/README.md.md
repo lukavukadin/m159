@@ -153,21 +153,30 @@ Der Benutzer für die externen Promoter wurde in der OU `Promoter` angelegt.
 
 ### 6.3 Die Abteilungsordner
 
+#### 1. Sekretariat:
 
-1. **Sekretariat:**
+Gruppen:
 
+- GRP_Sekretariat hinzugefügt mit **Modify** Berechtigung (C)
+- GRP_GL  hinzugefügt mit **Read & execute** Berechtigung (R)
 
+#### 2. Buchhaltung:
 
+Gruppen:
 
-2. **Buchhaltung:**
+- GRP_Buchhaltung hinzugefügt mit **Modify** Berechtigung (C)
+- GRP_GL hinzugefügt mit Read & execute Berechtigung (R)
 
+#### 3. GL:
 
+Gruppe:
 
+- GRP_GL hinzugefügt mit **Modify** Berechtigung (C)
 
-3. **GL (Geschäftsleitung):**
+#### 3. Promoter:
 
+Gruppe: 
 
+- GRP_Promoter hinzugefügt mit **Modify** Berechtigung (C)
 
-
-4. **Promoter:**
 
