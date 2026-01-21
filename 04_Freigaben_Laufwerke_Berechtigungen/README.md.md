@@ -24,7 +24,7 @@
 
 <img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_20.33.png">
 
-
+----
 ### 2. Schritt: Benutzer anlegen
 
 ### Sekretariat
@@ -66,7 +66,6 @@ Der Benutzer für die Geschäftsleitung wurde in der OU `GL` angelegt.
 
 
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_20.50.png">
-
 <img width=50% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_20.58.png">
 
 
@@ -83,3 +82,11 @@ Der Benutzer für die externen Promoter wurde in der OU `Promoter` angelegt.
 
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_20.51.png">
 <img width=50% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_20.59.png">
+
+----
+
+## 3. Schritt: Ordnerstruktur auf dem Laufwerk C: (dc1)
+
+
+
+<img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_21.04.png">
