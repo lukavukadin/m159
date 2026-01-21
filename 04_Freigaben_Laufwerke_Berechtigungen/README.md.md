@@ -225,5 +225,18 @@ Gruppe:
 
 <img width=40% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_22.50.png">
 
+#### 1. Test: Sekretariat vs. Buchhaltung
+
+Angemeldet als `s.vukadin`. Beim Versuch, den Pfad `\\dc1\Daten\Abteilungen\Buchhaltung` direkt aufzurufen, erscheint die Sicherheitsmeldung.
+
+
+<img width=40% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_23.21.png">
+#### 2. Test: GL Schreibrechte im Pool
+
+
+
+#### 3. Test: Promoter Zugriff auf Intern
+
+
 
 
