@@ -6,30 +6,30 @@
 -----
 ### 2. Schritt: Sicherheitsgruppe erstellt
 
-Inbound Rules:
+##### Inbound Rules:
 <img width=90% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_15.01.26_08.47.png">
 
-Outbound Rules:
+##### Outbound Rules:
 <img width=90% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_15.01.26_08.45.png">
 
-wurde erstellt:
+##### wurde erstellt:
 <img width=90% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_15.01.26_08.50.png">
 
 ---
 ### 3. Schritt: EC2-Instanze erstellt
 
-3/3 Prüfung bestanden:
+##### 3/3 Prüfung bestanden:
 <img width=90% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_15.01.26_09.35.png">
-Cloudinit Datei: [Hier](/02_Initial_Setup/cloud-init)
+##### Cloudinit Datei: [Hier](/02_Initial_Setup/cloud-init)
 
 ----
 
 ### 4. Schritt: RDP verbindung
 
-Private-Key hinterlegt und Passwort abgerufen:
+##### Private-Key hinterlegt und Passwort abgerufen:
 <img width=90% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_15.01.26_09.38.png">
 
-mit Server verbunden:
+##### mit Server verbunden:
 <img width=90% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_15.01.26_09.43.png">
 
 
@@ -54,18 +54,18 @@ mit Server verbunden:
 
 ### 8. Schritt: Explorer-Optionen (Check)
 
-Die Haken unter "File name extensions" und "Hidden items" war schon gesetzt:
+##### Die Haken unter "File name extensions" und "Hidden items" war schon gesetzt:
 
 <img width=50% height=50% alt="Explorer-optionen" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_20.01.26_21.49.png">
 
 ----
 ### 9. Schritt: Elastic IP
 
-Elastic ip noch erstellt, damit sich meine ip nicht immer ändert!
+##### Elastic ip noch erstellt, damit sich meine ip nicht immer ändert!
 
 <img width=80% height=80% alt="elastic-ip" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/elastic-ip.png">
 
-zugewiesen zu meiner instance
+##### zugewiesen zu meiner instance
 
 <img width=80% height=80% alt="elastic-ip-zuweisen" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_20.01.26_21.44.png">
 
@@ -88,12 +88,12 @@ zugewiesen zu meiner instance
 ----
 ### 13. Schritt: IPv6 deaktivieren & DNS-Server setzen
 
-IPv6 deaktiviert von client:
+##### IPv6 deaktiviert von client:
 
 <img width=40% height=40% alt="IEsecurty" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_11.21.png">
 
 
-Dns-Server gesetzt:
+##### Dns-Server gesetzt:
 
 <img width=40% height=40% alt="IEsecurty" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_11.24.png">
 
