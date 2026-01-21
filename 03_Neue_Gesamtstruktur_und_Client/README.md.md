@@ -143,7 +143,10 @@ Passwort: Tbz12345
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_14.08.png">
 
 
+Deswegen habe ich jetzt eine neue Sicherheitsregel erstellt. 
 
+
+<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_14.14.png">
 
 
 
