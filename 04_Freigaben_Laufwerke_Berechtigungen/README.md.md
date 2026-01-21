@@ -210,3 +210,9 @@ Gruppe:
 
 ----
 
+## 8. Schritt: Test
+
+##### Bevor ich es testen konnte musste ich noch zuerst die Users die ich angelget habe in der Gruppe RDP hinzufügen:
+
+
+<img width=70% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_22.50.png">
