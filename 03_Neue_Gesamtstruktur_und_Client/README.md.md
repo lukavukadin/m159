@@ -162,30 +162,24 @@ Passwort: Tbz12345
 <img width=40% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_14.24.png">
 
 
-Der Erfolg des Domain Joins habe ich direkt auf dem Domain Controller (dc1) überprüft. Der Host **`CLIENT`** wurde automatisch im Container **Computers** angelegt.
+##### Der Erfolg des Domain Joins habe ich direkt auf dem Domain Controller (dc1) überprüft. Der Host **`CLIENT`** wurde automatisch im Container **Computers** angelegt.
 
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_14.45.png">
 
 
 ### 6. Schritt: Remote Desktop (RDP) für User erlauben
 
+##### Auf dem Client wurde der Fernzugriff aktiviert, damit sich Administratoren und berechtigte Benutzer anmelden können. **Status:** Die Option **"Allow remote connections to this computer"** ist aktiv.
 
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_14.58.png">
 
-
-
-
-
-
-
-
 ### 7. Schritt: Manueller PTR-Eintrag für den Client (DNS Fix)
 
-
+##### Da die automatische Registrierung in Cloud-Umgebungen manchmal verzögert ist, habe ich den **PTR-Record** für den Client manuell in der Reverse-Lookup-Zone ergänzt.
 
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_15.02.png">
 
 
+##### Sowohl der Domain Controller (`.10`) als auch der Client (`.50`) sind nun korrekt mit ihrem FQDN hinterlegt. Dies verhindert Fehler bei der Identifizierung der Systeme im Netzwerk.
 
-
-<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_15.03.png">
+<img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_15.03.png">
