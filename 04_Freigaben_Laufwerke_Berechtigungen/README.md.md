@@ -38,7 +38,6 @@
 - **Gruppe:** `GRP_Sekretariat` (Mitglied von `GRP_Intern`)
 
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_20.46.png">
-
 <img width=50% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_20.53.png">
 
 
@@ -53,7 +52,6 @@ Der Benutzer für die Buchhaltung wurde in der OU `Buchhaltung` angelegt.
 - **Gruppe:** `GRP_Buchhaltung` (Mitglied von `GRP_Intern`)
 
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_20.48.png">
-
 <img width=50% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_20.55.png">
 
 ### GL
