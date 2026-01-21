@@ -84,10 +84,8 @@ Passwort: Tbz12345
 
 <img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_12.39.png">
 
-<br>
 ##### Bei der IP-Version festlegen habe ich die IPv4 Reverse Lookup Zone ausgewählt
 
-<br>
 ##### Unter **Network ID** die drei Segemente meiner internet IP-Adresse eingegeben:
 
 <img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_12.41.png">
@@ -100,6 +98,8 @@ Passwort: Tbz12345
 
 -----
 #### 3.3 PTR-Record aktualisieren:
+
+
 
 
 
