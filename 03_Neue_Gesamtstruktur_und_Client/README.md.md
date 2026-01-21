@@ -25,3 +25,7 @@ Passwort: Tbz12345
 **Additional Options (NetBIOS):*
 
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_11.58.png">
+
+**Paths & Review (lassen wie es ist):**
+
+<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_12.00.png">
