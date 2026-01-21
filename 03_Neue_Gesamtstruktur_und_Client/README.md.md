@@ -150,22 +150,16 @@ Passwort: Tbz12345
 
 ##### Jetzt war der Port-Check erfolgreich:
 
-
 <img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_14.18.png">
 
 
 
+##### Ich habe nun nochmal versucht auf die Domain zu joinen:
+
+<img width=40% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_14.02.png">
 
 
+##### Ich habe es geschafft den Client auf meine Domain hinzuzufügen
 
 
-
-
-
-
-
-
-
-
-
-<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_14.02.png">
+<img width=40% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_14.24.png">
