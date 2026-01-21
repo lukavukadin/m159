@@ -54,6 +54,7 @@ Der Benutzer für die Buchhaltung wurde in der OU `Buchhaltung` angelegt.
 
 <img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_20.48.png">
 
+<img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_20.55.png">
 ### GL
 
 Der Benutzer für die Geschäftsleitung wurde in der OU `GL` angelegt.
