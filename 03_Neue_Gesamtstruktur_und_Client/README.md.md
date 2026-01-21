@@ -144,7 +144,6 @@ Passwort: Tbz12345
 
 ##### Deswegen habe ich in der AWS Security Group  eine Regel für **Alle TCP**-Ports aus dem Subnetz **10.0.0.0/24** hinzugefügt. Ich habe **10.0.0.0/24** gewählt, da dies exakt mein Subnetz abdeckt und unnötige Zugriffe von ausserhalb (Best Practice) verhindert.
 
-
 <img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_14.14.png">
 
 
