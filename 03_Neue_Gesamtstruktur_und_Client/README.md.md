@@ -33,3 +33,22 @@ Passwort: Tbz12345
 ##### Installation:
 
 <img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_12.01.png">
+
+##### Server wurde Automatisch Neugestartet
+
+<img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_12.08.png">
+-----
+
+### 3. Schritt: DNS-Konfiguration
+
+
+
+
+----
+### 4. Schritt: AD-Papierkorb aktivieren
+
+
+
+
+----
+### 5. Schritt: Client in die Domäne einbinden (Domain Join)
