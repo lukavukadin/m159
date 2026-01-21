@@ -29,3 +29,7 @@ Passwort: Tbz12345
 **Paths & Review (lassen wie es ist):**
 
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_12.00.png">
+
+**Installation:**
+
+<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_12.01.png">
