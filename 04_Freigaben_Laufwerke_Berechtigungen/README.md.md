@@ -39,7 +39,7 @@
 
 <img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_20.46.png">
 
-
+<img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_20.53.png">
 ### Buchhaltung
 
 Der Benutzer für die Buchhaltung wurde in der OU `Buchhaltung` angelegt.
