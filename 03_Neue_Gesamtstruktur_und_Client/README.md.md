@@ -18,7 +18,11 @@ Domain Controller Options:
 Passwort: Tbz12345
 
 
-DNS Options:
+DNS Options (einfach überspringen, meldung kommt da ich die Root-Instanz gerade erst erstellte):
+
+<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_11.55.png">
+
+
 
 
 
