@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Neue_Gesamtstruktur_und_Client/README.md.md",
+                "file": "04_Freigaben_Laufwerke_Berechtigungen/README.md.md",
                 "mode": "source",
                 "source": false
               },
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Neue_Gesamtstruktur_und_Client/README.md.md",
+                "file": "04_Freigaben_Laufwerke_Berechtigungen/README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -201,10 +201,13 @@
   },
   "active": "4fc2e10f6e6cb143",
   "lastOpenFiles": [
-    "01_Planung/Projekt-Setup-Sheet.md",
-    "img/img_21.01.26_16.14.png",
     "03_Neue_Gesamtstruktur_und_Client/README.md.md",
+    "04_Freigaben_Laufwerke_Berechtigungen/README.md.md",
+    "img/img_21.01.26_16.39.png",
+    "01_Planung/Projekt-Setup-Sheet.md",
     "README.md",
+    "04_Freigaben_Laufwerke_Berechtigungen",
+    "img/img_21.01.26_16.14.png",
     "img/img_21.01.26_16.06.png",
     "img/img_21.01.26_16.04.png",
     "img/img_21.01.26_15.03.png",
@@ -213,7 +216,6 @@
     "img/img_21.01.26_14.45.png",
     "img/img_21.01.26_14.24.png",
     "Pasted image 20260121142401.png",
-    "img/img_21.01.26_14.18.png",
     "02_Initial_Setup/Initial-Setup.md",
     "02_Initial_Setup/cloud-init.md",
     "03_Neue_Gesamtstruktur_und_Client",
