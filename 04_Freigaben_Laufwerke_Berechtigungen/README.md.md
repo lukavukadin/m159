@@ -112,7 +112,7 @@ Der Benutzer für die externen Promoter wurde in der OU `Promoter` angelegt.
 ----
 ### 4. Schritt: Die Freigabe
 
-#### Zuerst habe ich den Hauptordner Daten freigegeben, indem ich den Hacken **Share this Folder** angeklickt habe und Permissions für Jeden Change und Read gegeben habe:
+#### Zuerst habe ich den Hauptordner **"Daten"** im Netzwerk freigegeben. In den erweiterten Freigabe-Einstellungen habe ich einen Haken bei **"Share this folder"** gesetzt. Die Freigabeberechtigungen für die Gruppe **"Jeder"** habe ich auf **"Change"** und **"Read"** konfiguriert, um den Zugriff über das Netzwerk grundsätzlich zu ermöglichen:
 
 <img width=70% height=70% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_21.24.png">
 
@@ -120,8 +120,12 @@ Der Benutzer für die externen Promoter wurde in der OU `Promoter` angelegt.
 
 ### 5. Schritt: Vererbung deaktivieren
 
-#### Ich ging wieder auf dem Hauptordner Daten, aber diesmal nicht unter Sharing sondern Securty dann
+#### Ich ging wieder auf dem Hauptordner Daten, aber diesmal nicht unter Sharing sondern Securty dann auf Diable inheritance dort auf das erste convert inherited permissions into explcit permsssion on this object
 
 <img width=70% height=70% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_21.30.png">
 
 
+Somit habe ich die Standard-Benutzergruppen entfernt
+
+
+bild von jetzt
