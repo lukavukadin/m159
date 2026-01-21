@@ -107,6 +107,7 @@ Unter meiner Domain luavukadin.m159, auf dem dc1 unter properties den hacken ges
 
 
 
+Hier sehen wir jetzt einen neun Eintrag mit dem Namen **`10.0.0.10`** und dem Typ **Pointer (PTR)**
 
 <img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_13.40.png">
 
