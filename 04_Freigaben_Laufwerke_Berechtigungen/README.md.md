@@ -158,14 +158,27 @@ Der Benutzer für die externen Promoter wurde in der OU `Promoter` angelegt.
 Gruppen:
 
 - GRP_Sekretariat hinzugefügt mit **Modify** Berechtigung (C)
+
+<img width=40% height=20% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_22.20.png">
+
+
 - GRP_GL  hinzugefügt mit **Read & execute** Berechtigung (R)
+
+<img width=40% height=20% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_22.21.png">
+
 
 #### 2. Buchhaltung:
 
 Gruppen:
 
 - GRP_Buchhaltung hinzugefügt mit **Modify** Berechtigung (C)
+
+<img width=40% height=20% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_22.23.png">
+
+
 - GRP_GL hinzugefügt mit Read & execute Berechtigung (R)
+
+<img width=40% height=20% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_22.24.png">
 
 #### 3. GL:
 
@@ -173,10 +186,13 @@ Gruppe:
 
 - GRP_GL hinzugefügt mit **Modify** Berechtigung (C)
 
+<img width=40% height=20% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_22.26.png">
+
+
 #### 3. Promoter:
 
 Gruppe: 
 
 - GRP_Promoter hinzugefügt mit **Modify** Berechtigung (C)
 
-
+<img width=40% height=20% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_22.28.png">
