@@ -126,7 +126,6 @@ Befehl (PowerShell auf dc1):
 
 `Enable-ADOptionalFeature -Identity 'Recycle Bin Feature' -Scope ForestOrConfigurationSet -Target 'lukavukadin.m159'
 
-
-
+<img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_13.54.png">
 ----
 ### 5. Schritt: Client in die Domäne einbinden (Domain Join)
