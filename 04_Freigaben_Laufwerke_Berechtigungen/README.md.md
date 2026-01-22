@@ -309,3 +309,5 @@ Ich habe jetzt im Ordner Sekreteriat die Gruppe GRP_Sekreteriat gelöscht und ha
 Ich habe jetzt im Ordner GL die Gruppe GRP_Sekreteriat gelöscht und habe die neu erstellte Gruppe DL_Sekreteriat_C hinzugefügt:
 
 img_22.01.26_13.57.png
+
+<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_22.01.26_13.57.png">
