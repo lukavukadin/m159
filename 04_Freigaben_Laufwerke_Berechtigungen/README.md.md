@@ -255,11 +255,13 @@ Um eine professionelle und skalierbare Berechtigungsstruktur zu gewährleisten, 
 - **D**omain **L**ocal: Repräsentiert die Ressource und das Zugriffsrecht (z. B. "Sekretariat Ändern").
     
 - **P**ermission: Die tatsächliche NTFS-Berechtigung am Ordner.
-    
+
 
 #### Visualisierung des Konzepts (Beispiel Sekretariat & GL)
 
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/Drawing 2026-01-22 08.37.11.excalidraw.png">
 
 
+#### Domänenlokale Gruppen im AD erstellen
 
+<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_22.01.26_10.05.png">
