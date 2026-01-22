@@ -259,6 +259,7 @@ Um eine professionelle und skalierbare Berechtigungsstruktur zu gewährleisten, 
 
 #### Visualisierung des Konzepts (Beispiel Sekretariat & GL)
 
-<img width=100% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/group.nesting.excalidraw.png">
+<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/Drawing 2026-01-22 08.37.11.excalidraw.png">
+
 
 
