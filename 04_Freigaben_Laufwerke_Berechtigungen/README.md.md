@@ -283,14 +283,17 @@ Jetzt habe ich DL_GL_C erstellt:
 
 <img width=40% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_22.01.26_10.21.png">
 
-#### Domänenlokale Gruppen im AD erstellen
+
+#### Globale Gruppen in Domänenlokale Gruppen schachteln (Nesting)
+
+
+Hier habe ich GRP_GL zu DL_GL_C  hinzugefügt
+
+
+<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_22.01.26_13.40.png">
 
 
 
-<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_2g2.01.26_11.02.png">
-
-
-
-Hier habe ich GRP_GL zu DL_GL_C 
+Hier habe ich GRP_GL zu DL_GL_C  hinzugefügt
 
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_22.01.26_11.08.png">
