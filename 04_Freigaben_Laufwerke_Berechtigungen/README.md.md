@@ -291,6 +291,6 @@ Jetzt habe ich DL_GL_C erstellt:
 
 
 
-GRP_GL
+Hier habe ich GRP_GL zu DL_GL_C 
 
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_22.01.26_11.08.png">
