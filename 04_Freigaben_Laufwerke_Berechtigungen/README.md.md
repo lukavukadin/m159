@@ -276,6 +276,9 @@ DL_GL_C:
 
 #### Domänenlokale Gruppen im AD erstellen
 
+<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_2g2.01.26_11.02.png">
 
+
+img_22.01.26_11.08.png
 
 
