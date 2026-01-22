@@ -266,11 +266,13 @@ Um eine professionelle und skalierbare Berechtigungsstruktur zu gewährleisten, 
 
 DL_Sekretariat_C:
 
-<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_22.01.26_10.05.png">
+<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_22.01.26_10.17.png">
 
 
 DL_GL_C:
 
-<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_22.01.26_10.07.png">
+<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_22.01.26_10.18.png">
 
 
+
+#### Domänenlokale Gruppen im AD erstellen
