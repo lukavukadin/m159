@@ -221,7 +221,11 @@ Gruppe:
 
 ##### Abteilungen:
 
-<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_22.01.26_11.46.png">
+<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_22.01.26_11.50.png">
+
+
+
+
 
 
 ----
