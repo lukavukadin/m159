@@ -217,6 +217,13 @@ Gruppe:
 
 <img width=70% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_22.36.png">
 
+#### Freigabe für die Unterordner gesetzt
+
+##### Abteilungen:
+
+<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_22.01.26_11.46.png">
+
+
 ----
 
 ## 8. Schritt: Test
@@ -275,10 +282,11 @@ Jetzt habe ich DL_GL_C erstellt:
 #### Domänenlokale Gruppen im AD erstellen
 
 
+
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_2g2.01.26_11.02.png">
 
 
 
-GRP_GL 
+GRP_GL
 
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_22.01.26_11.08.png">
