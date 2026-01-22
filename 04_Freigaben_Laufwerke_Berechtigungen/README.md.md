@@ -256,7 +256,6 @@ Um eine professionelle und skalierbare Berechtigungsstruktur zu gewährleisten, 
     
 - **P**ermission: Die tatsächliche NTFS-Berechtigung am Ordner.
 
-
 #### Visualisierung des Konzepts (Beispiel Sekretariat & GL)
 
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/Drawing 2026-01-22 08.37.11.excalidraw.png">
@@ -264,21 +263,21 @@ Um eine professionelle und skalierbare Berechtigungsstruktur zu gewährleisten, 
 
 #### Domänenlokale Gruppen im AD erstellen
 
-DL_Sekretariat_C:
+Jetzt habe ich DL_Sekretariat_C erstellt:
 
-<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_22.01.26_10.22.png">
+<img width=40% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_22.01.26_10.22.png">
 
 
-DL_GL_C:
+Jetzt habe ich DL_GL_C erstellt:
 
-<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_22.01.26_10.21.png">
-
+<img width=40% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_22.01.26_10.21.png">
 
 #### Domänenlokale Gruppen im AD erstellen
+
 
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_2g2.01.26_11.02.png">
 
 
-img_22.01.26_11.08.png
 
 
+<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_22.01.26_11.08.png">
