@@ -35,12 +35,14 @@
             "id": "accd0f2f95e85d35",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-22 08.37.11.excalidraw.md"
+                "file": "04_Freigaben_Laufwerke_Berechtigungen/README.md.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-22 08.37.11.excalidraw"
+              "icon": "lucide-file",
+              "title": "README.md"
             }
           }
         ],
@@ -136,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-22 08.37.11.excalidraw.md",
+                "file": "04_Freigaben_Laufwerke_Berechtigungen/README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von Drawing 2026-01-22 08.37.11.excalidraw öffnen"
+              "title": "Ausgehende Links von README.md öffnen"
             }
           },
           {

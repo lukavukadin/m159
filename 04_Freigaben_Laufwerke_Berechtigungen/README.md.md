@@ -246,6 +246,21 @@ Angemeldet als `p.tester`. Der Ordner `Intern` wird unter `\\dc1\Daten\` aufgrun
 -----
 ## 9. Schritt: Group Nesting Konzept (AGDLP)
 
+Um eine professionelle und skalierbare Berechtigungsstruktur zu gewährleisten, wurde das **AGDLP-Prinzip** implementiert. Dabei werden Benutzer nicht direkt berechtigt, sondern über eine Gruppenkaskade gesteuert.
+
+- **A**ccount: Der einzelne Benutzer.
+    
+- **G**lobal Group: Repräsentiert die Abteilung (Rolle).
+    
+- **D**omain **L**ocal: Repräsentiert die Ressource und das Zugriffsrecht (z. B. "Sekretariat Ändern").
+    
+- **P**ermission: Die tatsächliche NTFS-Berechtigung am Ordner.
+    
+
+#### Visualisierung des Konzepts (Beispiel Sekretariat & GL)
+
+
+
 
 
 
