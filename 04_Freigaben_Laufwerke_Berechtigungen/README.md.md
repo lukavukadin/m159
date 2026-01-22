@@ -237,14 +237,15 @@ Angemeldet als `l.vukadin`. Im Ordner `\\dc1\Daten\Pool` konnte erfolgreich ein 
 
 <img width=100% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_23.25.png">
 
-
-
 #### 3. Test: Promoter Zugriff auf Intern
 
 Angemeldet als `p.tester`. Der Ordner `Intern` wird unter `\\dc1\Daten\` aufgrund von ABE gar nicht erst angezeigt. Ein direkter Zugriff wird verweigert.
 
-
 <img width=100% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_23.29.png">
 
 -----
+## 9. Schritt: Group Nesting Konzept (AGDLP)
+
+
+
 
