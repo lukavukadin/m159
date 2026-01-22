@@ -287,7 +287,7 @@ Jetzt habe ich DL_GL_C erstellt:
 #### Globale Gruppen in Domänenlokale Gruppen schachteln (Nesting)
 
 
-Hier habe ich GRP_GL zu DL_GL_C  hinzugefügt
+Hier habe ich GRP_Sekretariat zu DL_Sekreteriat_C hinzugefügt
 
 
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_22.01.26_13.40.png">
@@ -297,3 +297,13 @@ Hier habe ich GRP_GL zu DL_GL_C  hinzugefügt
 Hier habe ich GRP_GL zu DL_GL_C  hinzugefügt
 
 <img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_22.01.26_11.08.png">
+
+
+#### NTFS-Berechtigungen am Fileserver anpassen
+
+Ich habe jetzt im Ordner Sekreteriat die Gruppe GRP_Sekreteriat gelöscht und habe die neu erstellte Gruppe DL_Sekreteriat_C hinzugefügt:
+
+<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_22.01.26_13.48.png">
+
+
+
