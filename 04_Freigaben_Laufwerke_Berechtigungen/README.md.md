@@ -112,7 +112,7 @@ Der Benutzer für die externen Promoter wurde in der OU `Promoter` angelegt.
 ----
 ## 4. Schritt: Die Freigabe
 
-##### Zuerst habe ich den Hauptordner **"Daten"** im Netzwerk freigegeben. In den erweiterten Freigabe-Einstellungen habe ich einen Haken bei **"Share this folder"** gesetzt. Die Freigabeberechtigungen für die Gruppe **"Jeder"** habe ich auf **"Change"** und **"Read"** konfiguriert, um den Zugriff über das Netzwerk grundsätzlich zu ermöglichen:
+##### Zuerst habe ich den Hauptordner **"Daten"** im Netzwerk freigegeben. In den erweiterten Freigabe-Einstellungen habe ich einen Haken bei **"Share this folder"** gesetzt. Die Freigabeberechtigungen für die Gruppe **"Jeder"** habe ich auf **"Change"** und **"Read"** konfiguriert, um den Zugriff über das Netzwerk grundsätzlich zu ermöglichen, das selbe habe ich dann für die anderen Ordner gemacht:
 
 <img width=70% height=70% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_21.24.png">
 
@@ -211,19 +211,11 @@ Gruppe:
 
 ## 7. Schritt ABE aktivieren
 
-#### Jetzt aktiviere ich ABE damit: Ein User nur noch die Ordner sieht, für die er auch wirklich Rechte hat. Wer kein Recht auf die "GL" hat, sieht den Ordner nicht einmal.
+#### Jetzt aktiviere ich ABE für alle Ordner damit: Ein User nur noch die Ordner sieht, für die er auch wirklich Rechte hat. Wer kein Recht auf die "GL" hat, sieht den Ordner nicht einmal.
 
-##### Diese habe ich unter "File and Storage Services" -> "Shares" -> Freigabe "Daten" Rechtsklick drauf -> "Properties" -> "Settings" -> Haken bei "Enable access-based enumeration"
+##### Diese habe ich unter "File and Storage Services" -> "Shares" -> Freigabe "Daten" Rechtsklick drauf -> "Properties" -> "Settings" -> Haken bei "Enable access-based enumeration" 
 
 <img width=70% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_22.36.png">
-
-#### Freigabe für die Unterordner gesetzt
-
-##### Hier sieht man das ich die Freigabe für den Ordner Abteilungen geändert habe, dies habe ich ebenfalls mit den anderen Ordner gemacht:
-
-<img width=50% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_22.01.26_11.50.png">
-
-
 
 ----
 
