@@ -158,14 +158,14 @@ Als erstes habe ich den Drucker auf dem Server installiert:
 
 Dafür musste ich den Drucker manuell erstellen:
 
-<img width=60% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_17.22.png">
+<img width=50% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_17.22.png">
 
 
 Dann new Port im drop down TCP/IP Port ausgewählt:
 
-<img width=60% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_17.23.png">
+<img width=50% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_17.23.png">
+
 
 Dann eine fiktive IP zugeteilt:
 
-
-<img width=60% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_17.24.png">
+<img width=50% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_17.24.png">
