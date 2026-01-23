@@ -7,9 +7,19 @@ Zuerst habe ich eine Skizze erstellt, wie mein DIT aussehen soll:
 <img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/dit.excalidraw.png">
 
 ----
-### Schritt 2: Struktur im Active Directory anlegen
+### 2. Schritt: Struktur im Active Directory anlegen
 
 Dies habe ich dann auf dem DC aufgesetzt:
 
+<img width=35% height=20% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_10.45.png">
 
-<img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_10.45.png">
+----
+### 3. Schritt: Benutzer & Computer verschieben
+
+Nun habe ich alle Benutzer und Computer in die jeweiligen OU's verschoben!
+
+---
+
+### 4. Schritt: Passwortrichtlinien anpassen
+
+<img width=35% height=20% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_10.56.png">
