@@ -148,7 +148,7 @@ Zum Abschluss habe ich einen detaillierten Report erstellt, um die korrekte Funk
     
 - **Zweck:** Dieser Report zeigt detailliert, dass die GPO „Textdatei kopieren“ aufgrund des WMI-Filters erfolgreich angewendet wurde und keine Konflikte bestehen.
 
-Hier ist die [gpo](../gpo.html) Datei.
+Hier ist die [gpo](07_DIT_GPO/gpo.html) Datei.
 
 ----
 
