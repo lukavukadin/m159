@@ -45,7 +45,7 @@ Ich habe die Netzlaufwerke so konfiguriert, dass sie automatisch beim Login verb
 <img width=30% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_13.53.png">
 
 
-Hier ein Beispiel von der Gruppe Pool, wie ich sie erstellt habe:
+Hier ein Beispiel von der Gruppe Pool, wie ich sie erstellt habe. Zuerst habe ich sie unter dem Ordner "Group Policy Object erstellt, dann unter Properties das demensprechende Laufwerk hinzugefügt:
 
 
 <img width=40% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_14.01.png">
@@ -53,14 +53,14 @@ Hier ein Beispiel von der Gruppe Pool, wie ich sie erstellt habe:
 <img width=40% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_11.16.png">
 
 
-
-
+In diesem Bild sieht man alle erstellten GPO's:
 
 <img width=80% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_13.59.png">
 
+#### Erfolgskontrolle
 
+Als Test habe ich mich mit dem s.vukadin User eingeloggt, um zu schauen, ob ich es richtig gemacht habe. 
 
+Ich habe es Erfolgreich erstellt, Sandra auf der Abteilung Sekretariat, sieht die Laufwerke Pool, Intern und Sekreteriat
 
-
-
-
+<img width=80% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_14.08.png">
