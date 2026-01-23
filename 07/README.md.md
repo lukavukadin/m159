@@ -6,8 +6,10 @@ Zuerst habe ich eine Skizze erstellt, wie mein DIT aussehen soll:
 
 <img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/dit.excalidraw.png">
 
-
+----
 ### Schritt 2: Struktur im Active Directory anlegen
 
 Dies habe ich dann auf dem DC aufgesetzt:
 
+
+<img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_10.45.png">
