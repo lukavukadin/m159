@@ -132,3 +132,11 @@ Zum Schluss habe ich das GPO zur OU Promoter verknüpft:
 
 #### Erfolgskontrolle
 
+Zuerst habe ich den Befehl gpupdate /force ausgeführt unter dem User Peter Tester (Promoter)
+
+<img width=40% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_15.51.png">
+
+
+Dann habe ich in dem "%temp%" Ordner nachgeschaut ob die "WMI-Filter" Datei vorhanden ist. Sie war erfolgreich auf einem Windows 10 Client:
+
+<img width=40% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_15.54.png">
