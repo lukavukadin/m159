@@ -44,14 +44,23 @@ Ich habe die Netzlaufwerke so konfiguriert, dass sie automatisch beim Login verb
 
 <img width=30% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_13.53.png">
 
-Hier ein Beispiel von 
 
-<img width=40% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_13.59.png">
-
+Hier ein Beispiel von der Gruppe Pool, wie ich sie erstellt habe:
 
 
-
-
-
+<img width=40% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_14.01.png">
 
 <img width=40% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_11.16.png">
+
+
+
+
+
+<img width=80% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_13.59.png">
+
+
+
+
+
+
+
