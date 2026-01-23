@@ -134,12 +134,12 @@ Zum Schluss habe ich das GPO zur OU Promoter verknüpft:
 
 Zuerst habe ich den Befehl gpupdate /force ausgeführt unter dem User Peter Tester (Promoter)
 
-<img width=40% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_15.51.png">
+<img width=90% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_15.51.png">
 
 
 Dann habe ich in dem "%temp%" Ordner nachgeschaut ob die "WMI-Filter" Datei vorhanden ist. Sie war erfolgreich auf einem Windows 10 Client:
 
-<img width=40% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_15.54.png">
+<img width=90% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_15.54.png">
 
 
 Zum Abschluss habe ich einen detaillierten Report erstellt, um die korrekte Funktion aller Gruppenrichtlinien schwarz auf weiß zu beweisen.
@@ -147,4 +147,8 @@ Zum Abschluss habe ich einen detaillierten Report erstellt, um die korrekte Funk
 - **Befehl:** Ich habe am Client unter dem Benutzer Peter Tester den Befehl `gpresult /h gpo.html` ausgeführt.
     
 - **Zweck:** Dieser Report zeigt detailliert, dass die GPO „Textdatei kopieren“ aufgrund des WMI-Filters erfolgreich angewendet wurde und keine Konflikte bestehen.
+
+Hier ist die [gpo](../gpo.html) Datei.
+
+----
 
