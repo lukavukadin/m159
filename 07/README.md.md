@@ -80,13 +80,9 @@ Dann habe ich die GPO konfiguriert und sie mit meiner obersten OU verknüpft:
 <img width=40% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_14.37.png">
 
 
-
-
 Jetzt wollen wir einstellen das Promoter "Peter Tester" keinen Zugriff darauf hat, deswegen müssen wir unter Securty Filtering Authenticated User löschen und GRP_Intern hinzufügen:
 
-img_23.01.26_14.47.png
-
-
+<img width=40% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_14.47.png">
 
 Anschinden Seit einem Windows-Update vor ein paar Jahren reicht die Sicherheitsfilterung alleine oft nicht aus, weil der Computer selbst die GPO auch "lesen" können muss.
 
