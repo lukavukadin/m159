@@ -2,9 +2,7 @@
 
 ### 1. Schritt: DIT (Directory Information Tree) erstellen
 
-
-dit.excalidraw.png
-
+Zuerst habe ich eine Skizze erstellt, wie mein DIT aussehen soll:
 
 <img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/dit.excalidraw.png">
 
@@ -15,6 +13,7 @@ dit.excalidraw.png
 
 
 
-
-
 ### Schritt 2: Struktur im Active Directory anlegen
+
+Dies habe ich dann auf dem DC aufgesetzt:
+
