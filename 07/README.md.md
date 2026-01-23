@@ -92,4 +92,12 @@ Deswegen habe ich das gemacht:
 
 #### Erfolgskontrolle
 
+Zuerst habe ich die Policy getestet, indem ich mich mit einem Benutzer aus der Gruppe "Intern" und einem Benutzer aus der Gruppe "Extern" eingeloggt habe.
 
+Mit dem User Sandra Vukadin (Sekreteriat) hat die Anbindung funktioniert und mit dem Benutzer Peter Tester (Promoter) nicht, was bestätigt, dass die Sicherheitsfiltrierung korrekt funktioniert hat:
+
+
+<img width=80% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_14.57.png">
+
+
+<img width=80% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_15.03.png">
