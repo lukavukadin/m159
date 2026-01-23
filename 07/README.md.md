@@ -70,25 +70,26 @@ Ich habe es Erfolgreich erstellt, Sandra auf der Abteilung Sekretariat, sieht di
 
 Zuerst habe ich eine neue GPO erstellt:
 
-<img width=40% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_14.35.png">
+<img width=60% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_14.35.png">
+
 
 Dann habe ich die GPO konfiguriert und sie mit meiner obersten OU verknüpft:
 
-<img width=40% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_14.34.png">
-
-
+<img width=35% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_14.34.png">
 <img width=40% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_14.37.png">
 
 
 Jetzt wollen wir einstellen das Promoter "Peter Tester" keinen Zugriff darauf hat, deswegen müssen wir unter Securty Filtering Authenticated User löschen und GRP_Intern hinzufügen:
 
-<img width=40% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_14.47.png">
+<img width=60% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_14.47.png">
 
-Anschinden Seit einem Windows-Update vor ein paar Jahren reicht die Sicherheitsfilterung alleine oft nicht aus, weil der Computer selbst die GPO auch "lesen" können muss.
+
+Anscheinden Seit einem Windows-Update vor ein paar Jahren reicht die Sicherheitsfilterung alleine oft nicht aus, weil der Computer selbst die GPO auch "lesen" können muss.
 
 Deswegen habe ich das gemacht:
 
-img_23.01.26_14.48.png
+<img width=80% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_14.48.png">
 
+#### Erfolgskontrolle
 
 
