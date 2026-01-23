@@ -123,12 +123,12 @@ Jetzt erstellte ich ein GPO und konfigurierte es folgendermassen:
 
 Dann musste ich unter WMI Filtering im Dropdown den neunen Windows 10 Filter auswählen:
 
-<img width=60% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_15.20.png">
+<img width=40% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_15.20.png">
 
 
 Zum Schluss habe ich das GPO zur OU Promoter verknüpft:
 
-<img width=60% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_15.22.png">
+<img width=40% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_15.22.png">
 
 #### Erfolgskontrolle
 
