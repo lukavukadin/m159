@@ -96,8 +96,41 @@ Zuerst habe ich die Policy getestet, indem ich mich mit einem Benutzer aus der G
 
 Mit dem User Sandra Vukadin (Sekreteriat) hat die Anbindung funktioniert und mit dem Benutzer Peter Tester (Promoter) nicht, was bestätigt, dass die Sicherheitsfiltrierung korrekt funktioniert hat:
 
+<img width=60% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_14.57.png">
 
-<img width=80% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_14.57.png">
+<img width=60% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_15.03.png">
 
 
-<img width=80% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_15.03.png">
+----
+### 6. Schritt: GPO mit WMI-Filter
+
+Als erstes habe ich unter dem Ordner "WMI Filters" ein neuen Filter erstellt, der Eine Datei 
+(`WMI-Filter.txt`)  nur dann auf einen Computer kopieren soll, wenn darauf **Windows 10** läuft:
+
+img_23.01.26_15.06.png
+
+
+Als nächstes ging ich unter den Ordner Pool und erstellte die Txt-Datei "WMI-Filter.txt":
+
+img_23.01.26_15.14.png
+
+
+Jetzt erstellte ich ein GPO und konfigurierte sie:
+
+img_23.01.26_15.17.png
+
+img_23.01.26_15.18.png
+
+
+Dann musste ich unter WMI Filtering im Dropdown den neunen Windows 10 Filter auswählen:
+
+img_23.01.26_15.20.png
+
+
+Zum Schluss habe ich das GPO zur OU Promoter verknüpft:
+
+img_23.01.26_15.22.png
+
+
+
+
