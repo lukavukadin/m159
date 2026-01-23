@@ -27,7 +27,7 @@ Jetzt habe ich die Default Domain Policy geändert in folgende Passworteinstellu
 - Passwortänderung auf 0 gesetzt, das bedeutet das Passwort läuft nie ab!
 - Passwortkolpexität
 
-<img width=35% height=20% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_10.56.png">
+<img width=90% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_10.56.png">
 
 
 
