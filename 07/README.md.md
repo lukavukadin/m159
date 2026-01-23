@@ -36,4 +36,4 @@ Laut Aufgabe sollen wir **neue GPOs** erstellen und diese mit den **korrekten OU
 
 
 
-<img width=90% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_11.11.png">
+<img width=60% height=60% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_11.16.png">
