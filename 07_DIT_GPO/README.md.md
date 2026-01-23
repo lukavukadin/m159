@@ -152,3 +152,20 @@ Hier ist die [gpo](07_DIT_GPO/gpo.html) Datei.
 
 ----
 
+### 6. Schritt: Farb- und SW-Drucker verteilen
+
+Als erstes habe ich den Drucker auf dem Server installiert:
+
+Dafür musste ich den Drucker manuell erstellen:
+
+img_23.01.26_17.22.png
+
+
+Dann new Port im drop down TCP/IP Port ausgewählt:
+
+img_23.01.26_17.23.png
+
+
+Dann eine fiktive IP zugeteilt:
+
+img_23.01.26_17.24.png
