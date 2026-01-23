@@ -4,7 +4,7 @@
 
 Zuerst habe ich eine Skizze erstellt, wie mein DIT aussehen soll:
 
-<img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/dit.excalidraw.png">
+<img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/dit_stuktur.excalidraw.png">
 
 ----
 ### 2. Schritt: Struktur im Active Directory anlegen
