@@ -194,3 +194,11 @@ Die beiden Drucker dann in der erstellten GPO druckerpfade eingetragen:
 <img width=70% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_26.01.26_18.45.png">
 
 
+#### Erfolgskontrolle
+
+Ich habe mich jetzt mit einem Test User angemeldet die Drucker gelöscht und den Befehl: `gpupdate /force` ausgeführt und es hat die Drucker hinzugefügt. Hier das erfolgreiche Video:
+
+![[img_26.01.26_18.56.gif]]
+
+
+<img width=70% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_26.01.26_18.56.gif">
