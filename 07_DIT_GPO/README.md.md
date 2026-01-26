@@ -201,4 +201,4 @@ Ich habe mich jetzt mit einem Test User angemeldet die Drucker gelöscht und den
 ![[img_26.01.26_18.56.gif]]
 
 
-<img width=70% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_26.01.26_18.56.gif">
+<img width=70% height=40% alt="gif" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_26.01.26_18.56.gif">
