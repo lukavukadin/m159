@@ -187,3 +187,8 @@ Hier habe ich "Share this printer...." ausgewählt, damit ich ihn auch später p
 Hier sieht man die erstellen Drucker:
 
 <img width=50% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_26.01.26_18.18.png">
+
+
+Die beiden Drucker dann in der erstellten GPO druckerpfade eingetragen:
+
+<img width=50% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_26.01.26_18.45.png">
