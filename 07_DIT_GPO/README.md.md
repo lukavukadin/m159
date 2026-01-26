@@ -169,3 +169,8 @@ Dann new Port im drop down TCP/IP Port ausgewählt:
 Dann eine fiktive IP zugeteilt:
 
 <img width=50% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_17.24.png">
+
+
+Hier einfach auf Next:
+
+<img width=50% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_26.01.26_18.05.png">
