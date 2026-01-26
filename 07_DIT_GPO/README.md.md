@@ -191,4 +191,6 @@ Hier sieht man die erstellen Drucker:
 
 Die beiden Drucker dann in der erstellten GPO druckerpfade eingetragen:
 
-<img width=50% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_26.01.26_18.45.png">
+<img width=70% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_26.01.26_18.45.png">
+
+
