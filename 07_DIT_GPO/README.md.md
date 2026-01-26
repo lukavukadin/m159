@@ -184,3 +184,6 @@ Hier habe ich "Share this printer...." ausgewählt, damit ich ihn auch später p
 <img width=50% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_26.01.26_18.11.png">
 
 
+Hier sieht man die erstellen Drucker:
+
+<img width=50% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_26.01.26_18.18.png">
