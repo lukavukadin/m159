@@ -89,3 +89,8 @@ Hier habe ich alle Domains and OUs ausgewählt, da es für dieses Projekt am sic
 Hier noch mal überprüfen ob "Password hash synchronization" ausgewählt ist:
 
 <img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_19.06.png">
+
+
+Entra wurde erfolgreich konfiguriert:
+
+<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_19.13.png">
