@@ -40,3 +40,11 @@ Ich habe unter meiner Domain die GPO "GPO_FSLogix_Profiles" erstellt:
 
 ### 3.2 Einstellungen setzen
 
+Hier habe ich folgende Anpassungen im GPO gemacht:
+
+- VHD Locations: `\\DC1\FSLogixProfiles`
+- Delete Local Profile When VHD Should Apply: `Enabled`
+- Enable: `Enabled`
+- Size in MB: `5000`
+  
+  <img width=30% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_00.26.png">
