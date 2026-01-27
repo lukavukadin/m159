@@ -18,4 +18,19 @@ Dann habe ich mein Microsoft Entra ID Connect eingerichtet. Über dem Entra admi
 
 Hier habe ich einen alternativen UPN-Suffix hinzugefügt, denn ich dann bei der Synchronisation von Entra ID verwenden werde:
 
-<img width=95% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_17.54.png">
+<img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_17.54.png">
+
+
+
+
+<img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.01.png">
+
+
+
+<img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.03.png">
+
+
+
+<img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.06.png">
+
+
