@@ -123,9 +123,7 @@ Dann habe ich eine GPO erstellt und "Register domain" state Enabled:
 ### Custom-UPN (Domain) zu EntraID hinzufügen
 
 
-
 <img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_20.08.png">
-
 
 
 
