@@ -102,5 +102,14 @@ Jetzt habe ich auf dem DC1 überprüft ob die Synchronisation funktioniert hat:
 
 ### Hybrid-Join aktivieren
 
-
 <img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_19.24.png">
+
+
+Hier habe ich jetzt
+
+
+<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_19.28.png">
+
+
+
+
