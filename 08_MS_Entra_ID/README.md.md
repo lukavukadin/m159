@@ -50,7 +50,7 @@ Deswegen habe ich einen User angelegt mit Global Administration Rechten.
 
 Hier sieht man den erfolgreich erstellen Admin:
 
-<img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.28.png">
+<img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.28.png">
 
 
 
