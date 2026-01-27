@@ -81,11 +81,9 @@ Ich habe neben dem lokalen Suffix `lukavukadin.m159` zusätzlich `entra-vukadin.
 <img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.57.png">
 
 
-
+Hier habe ich alle Domains and OUs ausgewählt, da es für dieses Projekt am sichersten ist, damit nichts vergessen geht:
 
 <img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_19.02.png">
-
-
 
 
 Hier noch mal überprüfen ob "Password hash synchronization" ausgewählt ist:
