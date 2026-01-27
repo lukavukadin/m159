@@ -207,4 +207,4 @@ Ich habe mich jetzt mit einem Test User angemeldet die Drucker gelöscht und den
 Zuerst habe ich einen Ordner namens MSIs erstellt und darin das heruntergeladene 7-Zip-Datei heruntergeladen. Den Ordner habe ich für Internen freigegeben:
 
 
-<img width=70% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_10.09.png">
+<img width=70% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_10.14.png">
