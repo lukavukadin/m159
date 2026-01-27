@@ -1,5 +1,5 @@
 # MS Entra ID & MS Entra Connect
-
+---
 ## 1. Vorbereitung der Azure-Umgebung
 
 Ich habe mich in der Microsoft Azure Umgebung mit meiner privaten E-Mail eingeloggt und somit die $80 Guthaben bekommen:
