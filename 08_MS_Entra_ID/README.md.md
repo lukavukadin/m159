@@ -40,11 +40,7 @@ In diesem Schritt habe ich überprüft ob die "Password Hash Synchronization" au
 
 Bei diesem Schritt sieht man das ich einen User brauche damit ich mich mit Entra ID connecten kann, das habe ich dann im nächsten Schritt gemacht:
 
-
 <img width=70% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.26.png">
-
-
-
 
 
 Deswegen habe ich einen User angelegt mit Global Administration Rechten.
@@ -54,5 +50,11 @@ Deswegen habe ich einen User angelegt mit Global Administration Rechten.
 
 Hier sieht man den erfolgreich erstellen Admin:
 
-
 <img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.28.png">
+
+
+
+Dann konnte ich den User hier auswählen:
+
+
+<img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_15.01.26_09.43.png">
