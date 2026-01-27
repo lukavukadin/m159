@@ -230,3 +230,8 @@ Dann habe ich in der GPO die Authentifizierte Benutzer aus der Sicherheitsfiltri
 Unter dem Event Viewer sieht man die offiziele Bestätigung vom System das MsiInstaller installiert wurde:
 
 <img width=100% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_10.58.png">
+
+
+Im Explorer sieht man das die App auf der Festplatte vom Client gelandet ist:
+
+<img width=100% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_11.27.png">
