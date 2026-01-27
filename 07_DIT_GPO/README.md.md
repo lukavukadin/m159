@@ -229,7 +229,4 @@ Dann habe ich in der GPO die Authentifizierte Benutzer aus der Sicherheitsfiltri
 
 Unter dem Event Viewer sieht man die offiziele Bestätigung vom System das MsiInstaller installiert wurde:
 
-img_27.01.26_10.58.png
-
-
-<img width=60% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_10.29.png">
+<img width=100% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_10.58.png">
