@@ -70,10 +70,8 @@ Hier musste ich dann das Directory hinzufügen also mein Active Directory:
 
 Hier habe ich den AD Account erstellt:
 
-
-<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.51.png">
-
-<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.54.png">
+<img width=60% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.51.png">
+<img width=60% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.54.png">
 
 
 Ich habe neben dem lokalen Suffix `lukavukadin.m159` zusätzlich `entra-vukadin.v6.rocks` als routingfähigen UPN-Suffix konfiguriert, um eine spätere Internet-Anbindung zu ermöglichen. Da diese Suffixe im Tenant noch nicht verifiziert sind, habe ich die Bestätigung **Continue without matching** gewählt, um mit der Synchronisation fortzufahren:
@@ -112,12 +110,12 @@ Ich habe den **Service Connection Point (SCP)** für den Forest `lukavukadin.m15
 
 Die Konfiguration war erfolgreich:
 
-<img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_19.42.png">
+<img width=90% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_19.42.png">
 
 
 Dann habe ich eine Gruppenrichtlinie erstellt und auf **Enabled** gesetzt, um die automatische Geräteregistrierung für alle domänengebundenen Computer zu aktivieren.
 
-<img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_19.48.png">
+<img width=90% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_19.48.png">
 
 
 ### Custom-UPN (Domain) zu EntraID hinzufügen
@@ -129,15 +127,15 @@ Ich habe die öffentliche Domäne `entra-vukadin.v6.rocks` im Entra-Portal hinzu
 
 Hier habe ich dann den TXT Record Adresse kopiert und sie unter meine Zone eingetragen:
 
-<img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_20.08.png">
+<img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_20.08.png">
 <img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_21.07.png">
 
 
 Hier sieht man das ich erfolgreich meine Domain Verfied habe:
 
-<img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_20.58.png">
+<img width=90% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_20.58.png">
 
 
 Nach der Konfiguration des SCP, der Gruppenrichtlinie und der Domain-Verifizierung zeigt der Befehl `dsregcmd /status` nun erfolgreich **`AzureAdJoined : YES`** an. Damit ist der **Hybrid Microsoft Entra ID Join** für den Domain Controller vollständig abgeschlossen und das Gerät ist sowohl lokal als auch in der Cloud registriert.
 
-<img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_21.06.png">
+<img width=90% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_21.06.png">
