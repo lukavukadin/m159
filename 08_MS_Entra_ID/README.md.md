@@ -100,7 +100,7 @@ Jetzt habe ich auf dem DC1 überprüft ob die Synchronisation funktioniert hat:
 
 <img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_19.16.png">
 
-### Hybrid-Join aktivieren
+### Hybrid-Join aktivieren:
 
 <img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_19.24.png">
 
@@ -115,8 +115,18 @@ Die Konfiguration war erfolgreich:
 <img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_19.42.png">
 
 
-Dann habe ich eine GPO erstellt 
+Dann habe ich eine GPO erstellt und "Register domain" state Enabled:
 
 <img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_19.48.png">
 
 
+### Custom-UPN (Domain) zu EntraID hinzufügen
+
+
+
+<img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_20.08.png">
+
+
+
+
+<img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_20.11.png">
