@@ -94,3 +94,9 @@ Hier noch mal überprüfen ob "Password hash synchronization" ausgewählt ist:
 Entra wurde erfolgreich konfiguriert:
 
 <img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_19.13.png">
+
+
+Jetzt habe ich auf dem DC1 überprüft ob die Synchronisation funktioniert hat:
+
+
+<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_19.16.png">
