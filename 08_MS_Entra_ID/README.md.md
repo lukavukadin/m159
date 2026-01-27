@@ -13,6 +13,9 @@ Dann habe ich mein Microsoft Entra ID Connect eingerichtet. Über dem Entra admi
 
 <img width=95% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_15.29.png">
 
+### 2. Schritt - Custom-UPN Suffix hinzufügen (Lokal am DC1)
 
 
+Hier habe ich einen alternativen UPN-Suffix hinzugefügt, denn ich dann bei der Synchronisation von Entra ID verwenden werde:
 
+<img width=95% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_17.54.png">
