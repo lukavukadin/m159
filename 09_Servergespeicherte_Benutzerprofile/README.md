@@ -55,4 +55,4 @@ Hier habe ich folgende Anpassungen im GPO gemacht:
 
 Ich bin jetzt die .exe Datei gestartet und FSLogix heruntergeladen:
 
-<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_00.43.png">
+<img width=60% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_00.43.png">
