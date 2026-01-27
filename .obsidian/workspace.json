@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07_DIT_GPO/README.md.md",
+                "file": "08_MS_Entra_ID/README.md.md",
                 "mode": "source",
                 "source": false
               },
@@ -188,10 +188,15 @@
   },
   "active": "76c1d5924371ff0d",
   "lastOpenFiles": [
+    "07_DIT_GPO/README.md.md",
+    "08_MS_Entra_ID/README.md.md",
+    "img/img_27.01.26_11.42.png",
+    "05/README.md.md",
+    "README.md.md",
+    "08_MS_Entra_ID",
     "img/img_26.01.26_18.56 1.gif",
     "group_nesting.excalidraw.md",
     "dit.excalidraw.md",
-    "07_DIT_GPO/README.md.md",
     "img/img_27.01.26_11.27.png",
     "img/img_27.01.26_10.58.png",
     "img/img_27.01.26_10.29.png",
@@ -200,17 +205,14 @@
     "img/img_27.01.26_10.14.png",
     "img/img_27.01.26_10.09.png",
     "img/img_26.01.26_18.56.gif",
-    "img/img_26.01.26_18.45.png",
     "08_.md",
     "04_Freigaben_Laufwerke_Berechtigungen/README.md.md",
     "02_Initial_Setup/Initial-Setup.md",
     "07_DIT_GPO/gpo.html",
     "gpo.html",
     "03_Neue_Gesamtstruktur_und_Client/README.md.md",
-    "05/README.md.md",
     "07_DIT_GPO",
     "06",
-    "README.md",
     "Excalidraw",
     "Unbenannt.canvas",
     "05",
@@ -218,7 +220,6 @@
     "04_Freigaben_Laufwerke_Berechtigungen",
     "02_Initial_Setup/cloud-init.md",
     "03_Neue_Gesamtstruktur_und_Client",
-    "img",
-    "02_Initial_Setup"
+    "img"
   ]
 }
