@@ -131,6 +131,8 @@ Hier habe ich dann den TXT Record Adresse kopiert und sie unter meine Zone einge
 
 <img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_20.08.png">
 <img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_21.07.png">
+
+
 Hier sieht man das ich erfolgreich meine Domain Verfied habe:
 
 <img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_20.58.png">
