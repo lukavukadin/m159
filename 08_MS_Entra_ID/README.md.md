@@ -21,19 +21,33 @@ Hier habe ich einen alternativen UPN-Suffix hinzugefügt, denn ich dann bei der 
 <img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_17.54.png">
 
 
+### 3. Schritt - Installation von Entra Connect starten
+
+Hier habe ich Customize gewählt, damit ich die sicherstellen kann das die geforderte Password Hash Synchronization exlpizit aktiviert ist:
+
+<img width=70% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.01.png">
 
 
-<img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.01.png">
+Hier bin ich dann auf Install gedrückt:
+
+<img width=70% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.03.png">
+
+
+In diesem Schritt habe ich überprüft ob die "Password Hash Synchronization" ausgewählt ist:
+
+<img width=70% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.06.png">
+
+
+Bei diesem Schritt sieht man das ich einen User brauche damit ich mich mit Entra ID connecten kann, das habe ich dann im nächsten Schritt gemacht:
+
+
+<img width=70% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.26.png">
 
 
 
-<img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.03.png">
 
 
-
-<img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.06.png">
-
-
+Deswegen habe ich einen User angelegt mit Global Administration Rechten.
 
 <img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.20.png">
 
