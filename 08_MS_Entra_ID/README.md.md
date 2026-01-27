@@ -67,3 +67,11 @@ Dann musste ich MFA einrichten für den User:
 Hier musste ich dann das Directory hinzufügen also mein Active Directory:
 
 <img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.49.png">
+
+
+Hier habe ich den AD Account erstellt:
+
+
+<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.51.png">
+
+<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.54.png">
