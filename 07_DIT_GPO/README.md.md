@@ -208,3 +208,9 @@ Zuerst habe ich einen Ordner namens MSIs erstellt und darin das heruntergeladene
 
 
 <img width=70% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_10.14.png">
+
+
+
+Jetzt habe ich das GPO erstellt und die MSI-Datei im GPO hinterlegt:
+
+<img width=70% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_10.21.png">
