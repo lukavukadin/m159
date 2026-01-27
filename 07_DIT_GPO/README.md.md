@@ -206,7 +206,6 @@ Ich habe mich jetzt mit einem Test User angemeldet die Drucker gelöscht und den
 
 Zuerst habe ich einen Ordner namens MSIs erstellt und darin das heruntergeladene 7-Zip-Datei heruntergeladen. Den Ordner habe ich für Internen freigegeben:
 
-
 <img width=70% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_10.14.png">
 
 
@@ -218,12 +217,19 @@ Jetzt habe ich das GPO erstellt und die MSI-Datei im GPO hinterlegt:
 
 Dann habe ich eine neue Gruppe erstellt namens "7-Zip" und darin den Computer "CLIENT":
 
-<img width=70% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_10.27.png">
+<img width=50% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_10.27.png">
 
 
 Dann habe ich in der GPO die Authentifizierte Benutzer aus der Sicherheitsfiltrierung entfernt und die 7-Zip Gruppe hinzugefügt:
 
+<img width=60% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_10.29.png">
 
-<img width=70% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_10.29.png">
+
+#### Erfolgskontrolle
+
+Unter dem Event Viewer sieht man die offiziele Bestätigung vom System das MsiInstaller installiert wurde:
+
+img_27.01.26_10.58.png
 
 
+<img width=60% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_10.29.png">
