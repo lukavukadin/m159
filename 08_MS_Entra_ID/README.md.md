@@ -76,6 +76,7 @@ Hier habe ich den AD Account erstellt:
 <img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.54.png">
 
 
+Ich habe neben dem lokalen Suffix `lukavukadin.m159` zusätzlich `entra-vukadin.v6.rocks` als routingfähigen UPN-Suffix konfiguriert, um eine spätere Internet-Anbindung zu ermöglichen. Da diese Suffixe im Tenant noch nicht verifiziert sind, habe ich die Bestätigung **Continue without matching** gewählt, um mit der Synchronisation fortzufahren:
 
-
+<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.57.png">
 
