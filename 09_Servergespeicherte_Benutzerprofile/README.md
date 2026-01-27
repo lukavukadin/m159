@@ -19,9 +19,13 @@ Hier habe ich die ZIP-Datei heruntergeladen:
 
 Damit mein Server die FSLogix-Einstellungen im GPO-Editor überhaupt anzeigt, müssen wir ihm die "Vokabeln" geben:
 
-Deshalb habe ich die Datei "fslogix.admx" in dem Verzeichnis: C:\Windows\PolicyDefinitions\en-US kopiert:
+Deshalb habe ich die Datei "fslogix.admx" in dem Verzeichnis: C:\Windows\PolicyDefinitions\ kopiert:
 
 <img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_00.14.png">
+
+Und die Datei "fslogix.adml" in dem Verzeichnis C:\Windows\PolicyDefinitions\en-US kopiert
+
+<img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_00.17.png">
 
 ----
 ## 3. Konfiguration der Gruppenrichtlinie (GPO)
