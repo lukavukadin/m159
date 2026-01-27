@@ -214,3 +214,12 @@ Zuerst habe ich einen Ordner namens MSIs erstellt und darin das heruntergeladene
 Jetzt habe ich das GPO erstellt und die MSI-Datei im GPO hinterlegt:
 
 <img width=70% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_10.21.png">
+
+
+Dann habe ich eine neue Gruppe erstellt namens "7-Zip" und darin den Computer "CLIENT":
+
+<img width=70% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_10.27.png">
+
+
+Dann habe ich in der GPO die Authentifizierte Benutzer aus der Sicherheitsfiltrierung entfernt und die 7-Zip Gruppe hinzugefügt:
+
