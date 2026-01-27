@@ -1,12 +1,13 @@
 # MS Entra ID & MS Entra Connect
 
+## 1. Vorbereitung der Azure-Umgebung
 
 Ich habe mich in der Microsoft Azure Umgebung mit meiner privaten E-Mail eingeloggt und somit die $80 Guthaben bekommen:
 
 <img width=95% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_11.42.png">
 
 ----
-## Vorbereitung der Azure-Umgebung
+## 2. Einrichtung von Microsoft Entra Connect
 
 ### 1. Schritt - Microsoft Entra Connect Agent herunterladen
 
@@ -21,9 +22,7 @@ Hier habe ich einen alternativen UPN-Suffix hinzugefügt, denn ich dann bei der 
 
 <img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_17.54.png">
 
------
-
-## Installation und Grundkonfiguration von Entra Connect
+----
 
 ### 3. Schritt - Installation von Entra Connect starten
 
@@ -102,6 +101,7 @@ Jetzt habe ich auf dem DC1 überprüft ob die Synchronisation funktioniert hat:
 
 <img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_19.16.png">
 
+----
 ## Konfiguration des Hybrid Microsoft Entra ID Join
 
 <img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_19.24.png">
@@ -121,8 +121,8 @@ Dann habe ich eine Gruppenrichtlinie erstellt und auf **Enabled** gesetzt, um di
 
 <img width=90% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_19.48.png">
 
-
-### Custom-UPN (Domain) zu EntraID hinzufügen
+----
+### Custom-UPN (Domain) zu Entra-ID hinzufügen
 
 Ich habe die öffentliche Domäne `entra-vukadin.v6.rocks` im Entra-Portal hinzugefügt, um den Prozess der Identitätsverifizierung für professionelle UPN-Suffixe vorzubereiten.
 
