@@ -122,9 +122,14 @@ Dann habe ich eine GPO erstellt und "Register domain" state Enabled:
 
 ### Custom-UPN (Domain) zu EntraID hinzufügen
 
+Ich habe die öffentliche Domäne `entra-vukadin.v6.rocks` im Entra-Portal hinzugefügt, um den Prozess der Identitätsverifizierung für professionelle UPN-Suffixe vorzubereiten.
+
+<img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_20.11.png">
+
+
+Da ich keinen Zugriff auf die öffentlichen DNS-Einstellungen dieser Domäne habe, kann die Verifizierung mittels TXT-Eintrag in dieser Laborumgebung nicht final abgeschlossen werden:
 
 <img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_20.08.png">
 
 
 
-<img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_20.11.png">
