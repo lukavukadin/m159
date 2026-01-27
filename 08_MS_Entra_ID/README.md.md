@@ -105,7 +105,7 @@ Jetzt habe ich auf dem DC1 überprüft ob die Synchronisation funktioniert hat:
 <img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_19.24.png">
 
 
-Hier habe ich jetzt den 
+Ich habe den **Service Connection Point (SCP)** für den Forest `lukavukadin.m159` konfiguriert, damit meine lokalen Geräte den Microsoft Entra Tenant automatisch finden können. Hierzu wurden die **Enterprise Admin Credentials** hinterlegt, um die notwendigen Registrierungsinformationen direkt im Active Directory zu speichern:
 
 <img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_19.28.png">
 
@@ -115,7 +115,7 @@ Die Konfiguration war erfolgreich:
 <img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_19.42.png">
 
 
-Dann habe ich eine GPO erstellt und "Register domain" state Enabled:
+Dann habe ich eine Gruppenrichtlinie erstellt und auf **Enabled** gesetzt, um die automatische Geräteregistrierung für alle domänengebundenen Computer zu aktivieren.
 
 <img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_19.48.png">
 
@@ -127,9 +127,17 @@ Ich habe die öffentliche Domäne `entra-vukadin.v6.rocks` im Entra-Portal hinzu
 <img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_20.11.png">
 
 
-Da ich keinen Zugriff auf die öffentlichen DNS-Einstellungen dieser Domäne habe, kann die Verifizierung mittels TXT-Eintrag in dieser Laborumgebung nicht final abgeschlossen werden:
+Hier habe ich dann den TXT Record Adresse kopiert und sie unter meine Zone eingetragen:
 
 <img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_20.08.png">
+
+
+
+Hier sieht man das ich erfolgreich meine Domain Verfied habe:
+
+
+<img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_20.58.png">
+
 
 
 
