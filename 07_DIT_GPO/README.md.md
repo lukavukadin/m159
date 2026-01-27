@@ -66,7 +66,7 @@ Ich habe es Erfolgreich erstellt, Sandra auf der Abteilung Sekretariat, sieht di
 <img width=80% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_23.01.26_14.08.png">
 
 ----
-### 5. Schritt: Desktop-Verknüpfung mit positiver Sicherheitsfilterung
+### 6. Schritt: Desktop-Verknüpfung mit positiver Sicherheitsfilterung
 
 Zuerst habe ich eine neue GPO erstellt:
 
@@ -102,7 +102,7 @@ Mit dem User Sandra Vukadin (Sekreteriat) hat die Anbindung funktioniert und mit
 
 
 ----
-### 6. Schritt: GPO mit WMI-Filter
+### 7. Schritt: GPO mit WMI-Filter
 
 Als erstes habe ich unter dem Ordner "WMI Filters" ein neuen Filter erstellt, der Eine Datei 
 (`WMI-Filter.txt`)  nur dann auf einen Computer kopieren soll, wenn darauf **Windows 10** läuft:
@@ -152,7 +152,7 @@ Hier ist die [gpo](07_DIT_GPO/gpo.html) Datei.
 
 ----
 
-### 6. Schritt: Farb- und SW-Drucker verteilen
+### 8. Schritt: Farb- und SW-Drucker verteilen
 
 Als erstes habe ich den Drucker auf dem Server installiert:
 
@@ -199,3 +199,8 @@ Die beiden Drucker dann in der erstellten GPO druckerpfade eingetragen:
 Ich habe mich jetzt mit einem Test User angemeldet die Drucker gelöscht und den Befehl: `gpupdate /force` ausgeführt und es hat die Drucker hinzugefügt. Hier das erfolgreiche Video:
 
 <img width=100% height=40% alt="gif" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_26.01.26_18.56.gif">
+
+
+----
+### 9. Schritt: MSI-Paket per GPO verteilen
+
