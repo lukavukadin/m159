@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08_MS_Entra_ID/README.md.md",
+                "file": "08_MS_Entra_ID/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README.md"
+              "title": "README"
             }
           }
         ]
@@ -200,7 +200,7 @@
     "img/img_27.01.26_19.16.png",
     "img/img_27.01.26_19.13.png",
     "07_DIT_GPO/README.md.md",
-    "08_MS_Entra_ID/README.md.md",
+    "08_MS_Entra_ID/README.md",
     "05/README.md.md",
     "README.md.md",
     "08_MS_Entra_ID",
