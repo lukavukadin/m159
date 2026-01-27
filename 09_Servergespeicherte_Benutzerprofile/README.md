@@ -21,13 +21,18 @@ Damit mein Server die FSLogix-Einstellungen im GPO-Editor √ºberhaupt anzeigt, m√
 
 Deshalb habe ich die Datei "fslogix.admx" in dem Verzeichnis: C:\Windows\PolicyDefinitions\en-US kopiert:
 
-<img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_23.57.png">
+<img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_00.14.png">
 
 ----
 ## 3. Konfiguration der Gruppenrichtlinie (GPO)
 
 Jetzt, wo der Server die Einstellungen kennt, erstellen wir die Richtlinie.
 
-### 3.1 GPO erstellen und bearbeiten
+### 3.1 GPO erstellen
 
-<img width=70% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_00.01.png">
+Ich habe unter meiner Domain die GPO "GPO_FSLogix_Profiles" erstellt:
+
+<img width=30% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_00.01.png">
+
+### 3.2 Einstellungen setzen
+
