@@ -36,7 +36,7 @@ Jetzt, wo der Server die Einstellungen kennt, erstellen wir die Richtlinie.
 
 Ich habe unter meiner Domain die GPO "GPO_FSLogix_Profiles" erstellt:
 
-<img width=30% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_00.01.png">
+<img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_00.01.png">
 
 ### 3.2 Einstellungen setzen
 
