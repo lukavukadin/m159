@@ -53,7 +53,15 @@ Hier sieht man den erfolgreich erstellen Admin:
 <img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.28.png">
 
 
-
 Dann konnte ich den User hier auswählen:
 
-<img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.29.png">
+<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.29.png">
+
+
+Dann musste ich MFA einrichten für den User:
+
+
+<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_18.45.png">
+
+
+
