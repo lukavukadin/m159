@@ -51,8 +51,18 @@ Hier habe ich folgende Anpassungen im GPO gemacht:
 
 ----
 
-### 4. Installation des FSLogix Agents auf den Clients
+## 4. Installation des FSLogix Agents auf den Clients
 
 Ich bin jetzt die .exe Datei gestartet und FSLogix heruntergeladen:
 
 <img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_00.43.png">
+
+### 4.1 Der erste Login-Test
+
+Als erstes habe ich die den Client neugestartet und eine Datei unter Desktop erstellt:
+
+<img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_01.08.png">
+
+
+
+### 4.2 Kontrolle auf dem DC1 (Server)
