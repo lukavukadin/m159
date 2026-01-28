@@ -59,9 +59,14 @@ Ich bin jetzt die .exe Datei gestartet und FSLogix heruntergeladen:
 
 ### 4.1 Der erste Login-Test
 
-Als erstes habe ich die den Client neugestartet und eine Datei unter Desktop erstellt:
+Als erstes habe ich mich mit den beiden Users als Test angemeldet und gesehen das der Prozess: Please wait for the FSLogix Apps Services, dann war ich mir schon sicher das es funktionieren wird.
 
-<img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_01.08.png">
+- Administrator
+- Sandra Vukadin
 
 ### 4.2 Kontrolle auf dem DC1 (Server)
 
+Dann ging ich auf dem DC und schaute nach ob die beiden Ordner für die beiden User erstellt wurden. Das waren sie somit habe ich die Aufgabe erledigt:
+
+<img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_09.35.png
+">
