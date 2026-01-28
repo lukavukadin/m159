@@ -35,9 +35,9 @@ Diese Umgebung umfasst:
 | **Feld**                             | **Wert**                |
 | ------------------------------------ | ----------------------- |
 | Active Directory Second-Level-Domäne | lukavukadin.m159        |
-| Geplante öffentliche Domain (UPN)    | lukavukadin.ch          |
-| Azure Education Account              | luka.vukadin@edu.tbz.ch |
-| Azure Education Account Passwort     | sdf3432lk4nsdfäö$3244   |
+| Geplante öffentliche Domain (UPN)    | entra-vukadin.v6.rocks  |
+| Azure Education Account              | luka.vukadin7@gmail.com |
+| Azure Education Account Passwort     |                         |
 
 ---
 
@@ -91,41 +91,41 @@ Diese Umgebung umfasst:
 
 ### On-Premises Active Directory (AWS EC2)
 
-|**Feld**|**Wert**|
-|---|---|
-|AD Third-Level-Domäne-1|ec2.lukavukadin.m159|
-|Öffentlicher UPN-Suffix|lukavukadin.ch|
-|Domänenadministrator|Administrator|
-|Kennwort|Schule2026!|
+| **Feld**                | **Wert**             |
+| ----------------------- | -------------------- |
+| AD Third-Level-Domäne-1 | ec2.lukavukadin.m159 |
+| Öffentlicher UPN-Suffix | lukavukadin.ch       |
+| Domänenadministrator    | Administrator        |
+| Kennwort                | Schule2026!          |
 
 ### Azure AD (Entra ID)
 
-|**Feld**|**Wert**|
-|---|---|
-|Entra AD Tenant Name|[Wird nach Azure Setup ergänzt]|
-|Azure Administrator (UPN)| luka.vukadin@edu.tbz.ch |
-|Entra Connect Server|dc1.ec2.lukavukadin.m159|
+| **Feld**                  | **Wert**                        |
+| ------------------------- | ------------------------------- |
+| Entra AD Tenant Name      | [Wird nach Azure Setup ergänzt] |
+| Azure Administrator (UPN) | luka.vukadin@edu.tbz.ch         |
+| Entra Connect Server      | dc1.ec2.lukavukadin.m159        |
 
 ### AWS Managed AD
 
-|**Feld**|**Wert**|
-|---|---|
-|AD Third-Level-Domäne-2|aws.lukavukadin.ch|
-|Trust-Typ|Tree-Root Trust|
-|AWS Managed Admin User|admin|
-|Trust Passwort|Trust2026!M159|
-|Subnetz 1|M159-subnet-private1-us-east-1a|
-|Subnetz 2|M159-subnet-private2-us-east-1b|
+| **Feld**                | **Wert**                        |
+| ----------------------- | ------------------------------- |
+| AD Third-Level-Domäne-2 | aws.lukavukadin.ch              |
+| Trust-Typ               | Tree-Root Trust                 |
+| AWS Managed Admin User  | admin                           |
+| Trust Passwort          | Trust2026!M159                  |
+| Subnetz 1               | M159-subnet-private1-us-east-1a |
+| Subnetz 2               | M159-subnet-private2-us-east-1b |
 
 ---
 
 ## 7. EC2-Instanzen
 
-|**Komponente**|**FQDN**|**Private IP**|**Subnetz**|**Lokaler Admin**|
-|---|---|---|---|---|
-|**IaaS/OnPrem DC**|dc1.ec2.lukavukadin.m159|10.0.128.10|Private 1|Administrator|
-|**Windows Client**|client.ec2.lukavukadin.m159|10.0.0.50|Public 1|Administrator|
-|**Admin Center**|admin.aws.lukavukadin.ch|10.0.0.60|Public 1|Administrator|
+| **Komponente**     | **FQDN**                    | **Private IP** | **Subnetz** | **Lokaler Admin** |
+| ------------------ | --------------------------- | -------------- | ----------- | ----------------- |
+| **IaaS/OnPrem DC** | dc1.ec2.lukavukadin.m159    | 10.0.128.10    | Private 1   | Administrator     |
+| **Windows Client** | client.ec2.lukavukadin.m159 | 10.0.0.50      | Private 1   | Administrator     |
+| **Admin Center**   | admin.aws.lukavukadin.ch    | 10.0.0.60      | Public 1    | Administrator     |
 
 ---
 
@@ -139,11 +139,10 @@ Diese Umgebung umfasst:
 |4|Promoter|p.tester|Peter|Tester|Start2026!|extern|
 
 ---
-
 ## 09. Python-App-Registration (Entra-ID)
 
-|**Name**|**Wert**|
-|---|---|
-|Directory (tenant) ID|[Wird in Azure generiert]|
-|Application (client) ID|[Wird in Azure generiert]|
-|Client Secret ID|[Wird in Azure generiert]|
+| **Name**                | **Wert**              |
+| ----------------------- | --------------------- |
+| Directory (tenant) ID   | <AZURE_CLIENT_SECRET> |
+| Application (client) ID | <AZURE_CLIENT_SECRET> |
+| Client Secret ID        | <AZURE_CLIENT_SECRET> |

@@ -84,3 +84,9 @@ In diesem Szenario wurde geprüft, ob die Applikation eine bestehende Identität
 
 ----
 
+### 9. Edge Login (Kerberos/WIA-SSO)
+
+Der Test mit Microsoft Edge bestätigt das **Seamless SSO**: Dank des lokalen **Kerberos-Tickets** erfolgt der Login in die Python-App vollautomatisch ohne jegliche Benutzereingabe:
+#### Video:
+
+
