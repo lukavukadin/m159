@@ -21,12 +21,12 @@ Diese Umgebung umfasst:
 
 ## 2. Allgemeine Angaben
 
-|**Feld**|**Wert**|
-|---|---|
-|Vorname|Luka|
-|Nachname|Vukadin|
-|Klasse|PE23c|
-|Dokumentation (GIT-Repository-Link)|[github.com/lukavukadin/m159](https://www.google.com/search?q=https://github.com/lukavukadin/m159&authuser=1)|
+| **Feld**                            | **Wert**                                                                                                      |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Vorname                             | Luka                                                                                                          |
+| Nachname                            | Vukadin                                                                                                       |
+| Klasse                              | PE23c                                                                                                         |
+| Dokumentation (GIT-Repository-Link) | [github.com/lukavukadin/m159](https://www.google.com/search?q=https://github.com/lukavukadin/m159&authuser=1) |
 
 ---
 
@@ -37,19 +37,19 @@ Diese Umgebung umfasst:
 | Active Directory Second-Level-Domäne | lukavukadin.m159        |
 | Geplante öffentliche Domain (UPN)    | entra-vukadin.v6.rocks  |
 | Azure Education Account              | luka.vukadin7@gmail.com |
-| Azure Education Account Passwort     |                         |
+| Azure Education Account Passwort     | (Proton Pass)           |
 
 ---
 
 ## 4. AWS VPC Setup
 
-|**Komponente**|**VPC-ID**|**CIDR**|**Name**|
-|---|---|---|---|
-|**VPC**|vpc-0470f613e45697700|10.0.0.0/16|M159-VPC|
-|**Subnet Private 1**|-|10.0.128.0/20|M159-subnet-private1-us-east-1a|
-|**Subnet Private 2**|-|10.0.144.0/20|M159-subnet-private2-us-east-1b|
-|**Subnet Public 1**|-|10.0.0.0/20|M159-subnet-public1-us-east-1a|
-|**Subnet Public 2**|-|10.0.16.0/20|M159-subnet-public2-us-east-1b|
+| **Komponente**       | **VPC-ID**               | **CIDR**      | **Name**                        |
+| -------------------- | ------------------------ | ------------- | ------------------------------- |
+| **VPC**              | vpc-091dc73a60bb330a5    | 10.0.0.0/16   | M159-VPC                        |
+| **Subnet Private 1** | subnet-02113f6252eb83091 | 10.0.128.0/20 | M159-subnet-private1-us-east-1a |
+| **Subnet Private 2** | subnet-01ee5e13b41bb9dca | 10.0.144.0/20 | M159-subnet-private2-us-east-1b |
+| **Subnet Public 1**  | subnet-06e62bd54a98efa64 | 10.0.0.0/20   | M159-subnet-public1-us-east-1a  |
+| **Subnet Public 2**  | subnet-049d2be131cf2fb1d | 10.0.16.0/20  | M159-subnet-public2-us-east-1b  |
 
 ---
 
@@ -57,33 +57,33 @@ Diese Umgebung umfasst:
 
 ### Sicherheitsgruppe für Domain Controller
 
-|**Regeltyp**|**Port(e)**|**Quelle**|
-|---|---|---|
-|RDP|3389 (TCP)|0.0.0.0/0|
-|LDAP|389 (TCP/UDP)|10.0.0.0/16|
-|LDAPS|636 (TCP)|10.0.0.0/16|
-|Kerberos|88 (TCP/UDP)|10.0.0.0/16|
-|SMB|445 (TCP)|10.0.0.0/16|
-|DNS|53 (TCP/UDP)|10.0.0.0/16|
-|RPC|135, 49152-65535 (TCP)|10.0.0.0/16|
-|ICMP|Alle|10.0.0.0/16|
-|Global Catalog|3268 (TCP)|10.0.0.0/16|
-|Global Catalog SSL|3269 (TCP)|10.0.0.0/16|
-|Kerberos Password|464 (TCP/UDP)|10.0.0.0/16|
+| **Regeltyp**       | **Port(e)**            | **Quelle**  |
+| ------------------ | ---------------------- | ----------- |
+| RDP                | 3389 (TCP)             | 0.0.0.0/0   |
+| LDAP               | 389 (TCP/UDP)          | 10.0.0.0/16 |
+| LDAPS              | 636 (TCP)              | 10.0.0.0/16 |
+| Kerberos           | 88 (TCP/UDP)           | 10.0.0.0/16 |
+| SMB                | 445 (TCP)              | 10.0.0.0/16 |
+| DNS                | 53 (TCP/UDP)           | 10.0.0.0/16 |
+| RPC                | 135, 49152-65535 (TCP) | 10.0.0.0/16 |
+| ICMP               | Alle                   | 0.0.0.0/0   |
+| Global Catalog     | 3268 (TCP)             | 10.0.0.0/16 |
+| Global Catalog SSL | 3269 (TCP)             | 10.0.0.0/16 |
+| Kerberos Password  | 464 (TCP/UDP)          | 10.0.0.0/16 |
 
 ### Sicherheitsgruppe für Clients
 
-|**Regeltyp**|**Port(e)**|**Beschreibung**|**Quelle**|
-|---|---|---|---|
-|RDP|3389|Remote Desktop|0.0.0.0/0|
-|TCP|88|Kerberos Auth|10.0.0.0/16|
-|TCP|135|RPC Mapper|10.0.0.0/16|
-|TCP|139|NetBIOS Session|10.0.0.0/16|
-|TCP|389|LDAP|10.0.0.0/16|
-|UDP|53|DNS|10.0.0.0/16|
-|TCP|445|SMB/CIFS|10.0.0.0/16|
-|TCP|49152-65535|RPC Ephemeral|10.0.0.0/16|
-|ICMP|Alle|Ping etc.|10.0.0.0/16|
+| **Regeltyp** | **Port(e)** | **Beschreibung** | **Quelle**   |
+| ------------ | ----------- | ---------------- | ------------ |
+| RDP          | 3389        | Remote Desktop   | 0.0.0.0/0    |
+| TCP          | 88          | Kerberos Auth    | 10.0.0.50/16 |
+| TCP          | 135         | RPC Mapper       | 10.0.0.50/16 |
+| TCP          | 139         | NetBIOS Session  | 10.0.0.50/16 |
+| TCP          | 389         | LDAP             | 10.0.0.50/16 |
+| UDP          | 53          | DNS              | 10.0.0.50/16 |
+| TCP          | 445         | SMB/CIFS         | 10.0.0.50/16 |
+| TCP          | 49152-65535 | RPC Ephemeral    | 10.0.0.50/16 |
+| ICMP         | Alle        | Ping etc.        | 0.0.0.0/0    |
 
 ---
 
@@ -91,20 +91,20 @@ Diese Umgebung umfasst:
 
 ### On-Premises Active Directory (AWS EC2)
 
-| **Feld**                | **Wert**             |
-| ----------------------- | -------------------- |
-| AD Third-Level-Domäne-1 | ec2.lukavukadin.m159 |
-| Öffentlicher UPN-Suffix | lukavukadin.ch       |
-| Domänenadministrator    | Administrator        |
-| Kennwort                | Schule2026!          |
+| **Feld**                | **Wert**               |
+| ----------------------- | ---------------------- |
+| AD Third-Level-Domäne-1 | ec2.lukavukadin.m159   |
+| Öffentlicher UPN-Suffix | entra-vukadin.v6.rocks |
+| Domänenadministrator    | Administrator          |
+| Kennwort                | Start2026!             |
 
 ### Azure AD (Entra ID)
 
-| **Feld**                  | **Wert**                        |
-| ------------------------- | ------------------------------- |
-| Entra AD Tenant Name      | [Wird nach Azure Setup ergänzt] |
-| Azure Administrator (UPN) | luka.vukadin@edu.tbz.ch         |
-| Entra Connect Server      | dc1.ec2.lukavukadin.m159        |
+| **Feld**                  | **Wert**               |
+| ------------------------- | ---------------------- |
+| Entra AD Tenant Name      | Default Directory      |
+| Azure Administrator (UPN) | Administrator          |
+| Entra Connect Server      | entra-vukadin.v6.rocks |
 
 ### AWS Managed AD
 
@@ -114,6 +114,8 @@ Diese Umgebung umfasst:
 | Trust-Typ               | Tree-Root Trust                 |
 | AWS Managed Admin User  | admin                           |
 | Trust Passwort          | Trust2026!M159                  |
+| IP-Adresse              | 10.0.1.5/24                     |
+| DNS-Server 1            | 10.0.2.5                        |
 | Subnetz 1               | M159-subnet-private1-us-east-1a |
 | Subnetz 2               | M159-subnet-private2-us-east-1b |
 
