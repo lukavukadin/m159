@@ -55,8 +55,10 @@ Jetzt habe ich in der .env Datei der App die CLIENT_ID, CLIENT_SECRET und TENANT
 
 <img width=60% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_11.40.png">
 
+----
 ### 6. Flask-App starten
 
 Hier habe ich den Befehl ``python -m flask run`` ausgeführt um die App zu starten:
 
 <img width=60% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_11.44.png">
+
