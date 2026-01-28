@@ -14,8 +14,10 @@
 
 ### 2. Schritt:
 
+Hier habe ich die Domain "aws.lukavukadin.ch" verwendet, wie in der Planung definiert:
 
 <img width=70% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_20.36.png">
 
-
 ### 3. Schritt:
+
+<img width=70% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_20.38.png">
