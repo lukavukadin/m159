@@ -23,7 +23,6 @@ Diese Umgebung umfasst:
 
 
 ---
-
 ## 2. Allgemeine Angaben
 
 | **Feld**                            | **Wert**                                                                                                      |
@@ -34,7 +33,6 @@ Diese Umgebung umfasst:
 | Dokumentation (GIT-Repository-Link) | [github.com/lukavukadin/m159](https://www.google.com/search?q=https://github.com/lukavukadin/m159&authuser=1) |
 
 ---
-
 ## 3. Ressourcen
 
 | **Feld**                             | **Wert**                |
@@ -45,7 +43,6 @@ Diese Umgebung umfasst:
 | Azure Education Account Passwort     | (Proton Pass)           |
 
 ---
-
 ## 4. AWS VPC Setup
 
 | **Komponente**       | **VPC-ID**               | **CIDR**      | **Name**                        |
@@ -57,7 +54,6 @@ Diese Umgebung umfasst:
 | **Subnet Public 2**  | subnet-049d2be131cf2fb1d | 10.0.16.0/20  | M159-subnet-public2-us-east-1b  |
 
 ---
-
 ## 5. AWS Sicherheitsgruppen
 
 ### Sicherheitsgruppe für Domain Controller
@@ -91,7 +87,6 @@ Diese Umgebung umfasst:
 | ICMP         | Alle        | Ping etc.        | 0.0.0.0/0    |
 
 ---
-
 ## 6. Active Directory Umgebung
 
 ### On-Premises Active Directory (AWS EC2)
@@ -126,7 +121,6 @@ Diese Umgebung umfasst:
 | Subnetz 2               | M159-subnet-private2-us-east-1b |
 
 ---
-
 ## 7. EC2-Instanzen
 
 | **Komponente**     | **FQDN**                    | **Private IP** | **Subnetz** | **Lokaler Admin** |
@@ -136,7 +130,6 @@ Diese Umgebung umfasst:
 | **Admin Center**   | admin.aws.lukavukadin.ch    | 10.0.0.60      | Public 1    | Administrator     |
 
 ---
-
 ## 8. Abteilungen & Benutzer
 
 |**Abt.**|**Name**|**Benutzername**|**Vorname**|**Nachname**|**Kennwort**|**Bereich**|
