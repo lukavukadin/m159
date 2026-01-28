@@ -45,4 +45,8 @@ Als erstes habe ich die App auf Entra registriert:
 
 Dannach habe ich ein Secret für den CLIENT erstellt:
 
-<img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_11.30.png">
+<img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_11.30.png">
+
+-----
+
+### 5. Konfiguration der .env Datei
