@@ -1,7 +1,6 @@
 # Projekt-Setup-Sheet
 
 
-
 <img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/Modul_159_Architekturdiagramm_Vukadin.drawio.png">
 
 ---

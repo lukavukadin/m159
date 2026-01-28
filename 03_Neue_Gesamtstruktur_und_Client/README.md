@@ -202,3 +202,13 @@ Passwort: Tbz12345
 
 <img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_16.14.png">
 
+---
+### 8. Schritt: RDP Zugriffskonzept
+
+Um den Fernzugriff auf die Infrastruktur sicher und skalierbar zu gestalten, habe ich ein rollenbasiertes Zugriffskonzept (RBAC) implementiert. Statt Berechtigungen an einzelne Benutzer zu vergeben, werden diese über Domänengruppen gesteuert.
+
+| **Gruppe**         | **Zielsystem** | **Berechtigungsstufe**   | **Zweck**                         |
+| ------------------ | -------------- | ------------------------ | --------------------------------- |
+| **GRP_RDP_Admins** | DC & Client    | Administrative Anmeldung | Systemverwaltung & Wartung        |
+| **GRP_RDP_Users**  | Nur Client     | Standard-Benutzer        | Tägliche Arbeit ohne Admin-Rechte |
+

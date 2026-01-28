@@ -31,3 +31,16 @@ Hier habe ich mein VPC ausgewählt und die beiden erstellten private Subnetze:
 Jetzt habe ich das Verzeichnis erstellt:
 
 <img width=70% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_20.42.png">
+
+Der AD ist jetzt "Aktiv":
+
+img_28.01.26_21.36.png
+
+<img width=70% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_21.36.png">
+
+-----
+
+## 3. Conditional Forwarder
+
+Jetzt habe ich auf meinem Domain Controller einen Conditional Forwarder aufgesetzt:
+
