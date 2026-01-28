@@ -1,4 +1,4 @@
-## Aufgabe 7: Directory Information Tree (DIT) & Gruppenrichtlinien (GPO)
+## Directory Information Tree (DIT) & Gruppenrichtlinien (GPO)
 
 ### 1. Schritt: DIT (Directory Information Tree) erstellen
 
