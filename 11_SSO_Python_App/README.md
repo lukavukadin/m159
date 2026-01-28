@@ -96,5 +96,4 @@ Der Test mit Microsoft Edge bestätigt das **Seamless SSO**: Dank des lokalen **
 
 <img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_19.57.gif">
 
-
 -----
