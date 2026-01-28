@@ -9,7 +9,7 @@ Zuerst habe ich mit diesen Befehlen auf dem CLIENT Python heruntergeladen und ge
 
 Mit "python --version" nachgeschaut ob Python auch wirklich installiert wurde:
 
-img_28.01.26_10.51.png
+<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_10.51.png">
 
 ----
 
