@@ -34,6 +34,7 @@ Als erstes habe ich die virtuelle Umgebung im Ordner der Applikation erstellt un
 Dann habe ich die Paktete mit dem Befehl `pip install flask authlib python-dotenv` installiert:
 
 <img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_11.19.png">
+<img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_11.43.png">
 
 ---
 ### 4. Registrierung der App in Microsoft Entra ID
@@ -51,6 +52,5 @@ Dannach habe ich ein Secret für den CLIENT erstellt:
 ### 5. Konfiguration der .env Datei
 
 Jetzt habe ich in der .env Datei der App die CLIENT_ID, CLIENT_SECRET und TENANT ID hinzugefügt:
-
 
 <img width=60% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_11.40.png">
