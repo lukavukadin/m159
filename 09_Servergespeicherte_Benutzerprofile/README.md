@@ -68,5 +68,4 @@ Als erstes habe ich mich mit den beiden Users als Test angemeldet und gesehen da
 
 Dann ging ich auf dem DC und schaute nach ob die beiden Ordner für die beiden User erstellt wurden. Das waren sie somit habe ich die Aufgabe erledigt:
 
-<img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_09.35.png
-">
+<img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_09.35.png">
