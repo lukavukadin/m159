@@ -64,5 +64,5 @@ Als erstes habe ich die den Client neugestartet und eine Datei unter Desktop ers
 <img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_01.08.png">
 
 
-
 ### 4.2 Kontrolle auf dem DC1 (Server)
+
