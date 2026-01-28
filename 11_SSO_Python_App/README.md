@@ -62,10 +62,23 @@ Hier habe ich den Befehl ``python -m flask run`` ausgeführt um die App zu start
 
 <img width=60% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_11.44.png">
 
+----
 ### 7. Chrome Login (Ikognito)
 
-<img width=60% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_13.11.png">
+Nach der erfolgreichen Konfiguration der App und der Synchronisation der Benutzer habe ich einen Test gemacht, indem ich die URL `http://localhost:5000` im Chrome geöffnet habe und mich mit dem Test User "Sandra Vukadin" angemeldet habe:
+#### Bild:
 
+<img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_13.11.png">
+
+#### Video:
 
 <img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_13.08.gif">
+
+---
+### 8. Token basiert Chrome Login
+
+In diesem Szenario wurde geprüft, ob die Applikation eine bestehende Identität im Browser erkennt und ein "Single Sign-On" ohne erneute Benutzerinteraktion ermöglicht.
+#### Video:
+
+<img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_13.27.gif">
 
