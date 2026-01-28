@@ -48,5 +48,9 @@ Dannach habe ich ein Secret für den CLIENT erstellt:
 <img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_11.30.png">
 
 -----
-
 ### 5. Konfiguration der .env Datei
+
+Jetzt habe ich in der .env Datei der App die CLIENT_ID, CLIENT_SECRET und TENANT ID hinzugefügt:
+
+
+<img width=60% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_11.40.png">
