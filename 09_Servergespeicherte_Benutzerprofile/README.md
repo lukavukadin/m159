@@ -2,7 +2,7 @@
 ---
 ## 1. Vorbereitung des Profil-Speichers (File Server)
 
-Ich habe als erstes im Laufwerk C einen neuen Ordner namens: FSLogix_Profiles erstellt und diesen Freigegeben:
+Ich habe als erstes im Laufwerk C einen neuen Ordner namens: FSLogix_Profiles erstellt und diesen für "Everyone" Freigegeben:
 
 <img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_27.01.26_23.39.png">
 
@@ -42,7 +42,7 @@ Ich habe unter meiner Domain die GPO "GPO_FSLogix_Profiles" erstellt:
 
 Hier habe ich folgende Anpassungen im GPO gemacht:
 
-- VHD Locations: `\\DC1\FSLogixProfiles`
+- VHD Locations: `\\DC1\FSLogix_Profiles`
 - Delete Local Profile When VHD Should Apply: `Enabled`
 - Enable: `Enabled`
 - Size in MB: `5000`
@@ -53,13 +53,13 @@ Hier habe ich folgende Anpassungen im GPO gemacht:
 
 ## 4. Installation des FSLogix Agents auf den Clients
 
-Ich bin jetzt die .exe Datei gestartet und FSLogix heruntergeladen:
+Ich habe jetzt die .exe Datei gestartet und FSLogix Agent installiert, dann habe ich den CLIENT neugestartet:
 
 <img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_00.43.png">
 
 ### 4.1 Der erste Login-Test
 
-Als erstes habe ich mich mit den beiden Users als Test angemeldet und gesehen das der Prozess: Please wait for the FSLogix Apps Services, dann war ich mir schon sicher das es funktionieren wird.
+Als erstes habe ich mich mit den beiden Users als Test angemeldet und gesehen das der Prozess: "Please wait for the FSLogix Apps Services", dann war ich mir schon sicher das es funktionieren wird. 
 
 - Administrator
 - Sandra Vukadin
@@ -68,5 +68,5 @@ Als erstes habe ich mich mit den beiden Users als Test angemeldet und gesehen da
 
 Dann ging ich auf dem DC und schaute nach ob die beiden Ordner für die beiden User erstellt wurden. Das waren sie somit habe ich die Aufgabe erledigt:
 
-<img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_09.35.png
+<img width=90% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_09.35.png
 ">
