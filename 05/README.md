@@ -28,5 +28,6 @@ Hier habe ich mein VPC ausgewählt und die beiden erstellten private Subnetze:
 
 ### 2.4 Schritt:
 
+Jetzt habe ich das Verzeichnis erstellt:
 
 <img width=70% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_20.42.png">
