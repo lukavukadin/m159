@@ -1,5 +1,11 @@
 # Projekt-Setup-Sheet
 
+
+<img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/Modul_159_Architekturdiagramm_Vukadin.drawio.png">
+
+
+
+
 ## 1. Übersicht Umgebung
 
 Diese Umgebung umfasst:
@@ -97,6 +103,7 @@ Diese Umgebung umfasst:
 | Öffentlicher UPN-Suffix | entra-vukadin.v6.rocks |
 | Domänenadministrator    | Administrator          |
 | Kennwort                | Start2026!             |
+
 
 ### Azure AD (Entra ID)
 
