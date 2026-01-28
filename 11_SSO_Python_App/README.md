@@ -82,3 +82,5 @@ In diesem Szenario wurde geprüft, ob die Applikation eine bestehende Identität
 
 <img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_13.27.gif">
 
+----
+
