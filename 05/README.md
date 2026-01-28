@@ -49,4 +49,14 @@ Jetzt habe ich auf meinem Domain Controller einen Conditional Forwarder aufgeset
 ----
 ### 4. Domain Controller Trust
 
+Jetzt bin ich auf "Active Directory Domains and Trusts" Tool gegangen und habe einen Trust erstellt:
+
 <img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_22.42.png">
+
+
+Hier habe ich meine Domain vom AWS Managed angegeben:
+
+<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_22.47.png">
+
+
+
