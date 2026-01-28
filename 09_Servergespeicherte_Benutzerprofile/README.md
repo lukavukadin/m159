@@ -70,5 +70,4 @@ Dann ging ich auf dem DC und schaute nach ob die beiden Ordner für die beiden U
 
 <img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_09.35.png">
 
-
 Durch die Implementierung von FSLogix werden die Benutzerprofile nun zentral auf dem DC1 verwaltet. Dies ermöglicht eine schnellere Anmeldung an den Clients und stellt sicher, dass Benutzerdaten unabhängig vom Endgerät immer verfügbar sind. Die erfolgreiche Erstellung der VHDX-Container in `C:\FSLogix_Profiles` bestätigt die korrekte Funktion der Gruppenrichtlinien und der Netzwerkberechtigungen.
