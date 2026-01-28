@@ -15,7 +15,7 @@ Diese Umgebung umfasst:
 - **Entra Connect** zur Synchronisation mit Entra ID
     
 - **Lokale AD-Domain**, später öffentliche Domain als UPN
-    
+
 
 ---
 
