@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07_DIT_GPO/README.md",
+                "file": "04_Freigaben_Laufwerke_Berechtigungen/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -188,6 +188,7 @@
   },
   "active": "76c1d5924371ff0d",
   "lastOpenFiles": [
+    "07_DIT_GPO/README.md",
     "08_MS_Entra_ID/README.md",
     "09_Servergespeicherte_Benutzerprofile/README.md",
     "11_",
@@ -202,7 +203,6 @@
     "img/img_27.01.26_23.57.png",
     "img/img_27.01.26_23.53.png",
     "img/img_27.01.26_23.39.png",
-    "07_DIT_GPO/README.md",
     "09_Servergespeicherte_Benutzerprofile",
     "05/README.md.md",
     "README.md.md",
@@ -210,7 +210,7 @@
     "group_nesting.excalidraw.md",
     "dit.excalidraw.md",
     "08_.md",
-    "04_Freigaben_Laufwerke_Berechtigungen/README.md.md",
+    "04_Freigaben_Laufwerke_Berechtigungen/README.md",
     "02_Initial_Setup/Initial-Setup.md",
     "07_DIT_GPO/gpo.html",
     "gpo.html",
