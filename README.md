@@ -2,7 +2,9 @@
 
 <hr>
 
-| #   | Aufgabe                                                                               | Beschreibung                                                                                                                                                                                                                                                              |
+### Ich habe die folgenden Aufgaben gemacht:
+
+|     | Aufgabe                                                                               | Beschreibung                                                                                                                                                                                                                                                              |
 | --- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | [Planung](01_Planung/Projekt-Setup-Sheet.md)                                          | Erstellen einer detaillierten Projektplanung inklusive Definition aller relevanten Parameter.                                                                                                                                                                             |
 | 2   | [Initial Setup](02_Initial_Setup/Initial-Setup)                                       | Grundinstallation und Konfiguration der AWS-Umgebung gemäss Planung, inklusive IP-Adressen, Hostnames, Ports und Standardeinstellungen.                                                                                                                                   |
