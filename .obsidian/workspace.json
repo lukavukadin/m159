@@ -11,14 +11,12 @@
             "id": "76c1d5924371ff0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "img/Drawing 2026-01-22 08.37.11.excalidraw.png"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-image",
+              "title": "Drawing 2026-01-22 08.37.11.excalidraw"
             }
           }
         ]
@@ -188,9 +186,9 @@
   },
   "active": "76c1d5924371ff0d",
   "lastOpenFiles": [
+    "README.md",
     "dit.excalidraw.md",
     "group_nesting.excalidraw.md",
-    "README.md",
     "01_Planung/Projekt-Setup-Sheet.md",
     "08_MS_Entra_ID/README.md",
     "02_Initial_Setup/cloud-init.md",
