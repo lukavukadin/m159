@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Neue_Gesamtstruktur_und_Client/README.md",
+                "file": "09_Servergespeicherte_Benutzerprofile/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -188,6 +188,10 @@
   },
   "active": "76c1d5924371ff0d",
   "lastOpenFiles": [
+    "01_Planung/Projekt-Setup-Sheet.md",
+    "02_Initial_Setup/cloud-init.md",
+    "02_Initial_Setup/Initial-Setup.md",
+    "03_Neue_Gesamtstruktur_und_Client/README.md",
     "04_Freigaben_Laufwerke_Berechtigungen/README.md",
     "07_DIT_GPO/README.md",
     "08_MS_Entra_ID/README.md",
@@ -211,17 +215,13 @@
     "group_nesting.excalidraw.md",
     "dit.excalidraw.md",
     "08_.md",
-    "02_Initial_Setup/Initial-Setup.md",
     "07_DIT_GPO/gpo.html",
     "gpo.html",
-    "03_Neue_Gesamtstruktur_und_Client/README.md",
     "07_DIT_GPO",
     "06",
     "Excalidraw",
     "Unbenannt.canvas",
     "05",
-    "01_Planung/Projekt-Setup-Sheet.md",
-    "04_Freigaben_Laufwerke_Berechtigungen",
-    "02_Initial_Setup/cloud-init.md"
+    "04_Freigaben_Laufwerke_Berechtigungen"
   ]
 }
