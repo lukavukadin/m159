@@ -1,3 +1,5 @@
+# Freigaben, Laufwerke & Berechtigungen
+
 ## 1. Schritt: Struktur im Active Directory (OUs & Gruppen)
 
 ### 1.1 OUs für Abteilungen erstellen (auf dc1)
@@ -218,10 +220,6 @@ Gruppe:
 ##### Diese habe ich unter "File and Storage Services" -> "Shares" -> Freigabe "Daten" Rechtsklick drauf -> "Properties" -> "Settings" -> Haken bei "Enable access-based enumeration" 
 
 <img width=70% height=50% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_22.36.png">
-
-
-Bild von Jetzt
-
 
 ----
 
