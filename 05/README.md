@@ -15,7 +15,7 @@
 ### 2. Schritt:
 
 
-<img width=70% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_20.33.png">
+<img width=70% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_20.36.png">
 
 
 ### 3. Schritt:
