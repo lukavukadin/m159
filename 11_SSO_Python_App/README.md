@@ -41,3 +41,8 @@ Dann habe ich die Paktete mit dem Befehl `pip install flask authlib python-doten
 Als erstes habe ich die App auf Entra registriert:
 
 <img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_11.26.png">
+
+
+Dannach habe ich ein Secret für den CLIENT erstellt:
+
+<img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_11.30.png">
