@@ -64,6 +64,8 @@ Hier habe ich den Befehl ``python -m flask run`` ausgeführt um die App zu start
 
 ### 7. Chrome Login (Ikognito)
 
+<img width=60% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_13.11.png">
+
 
 <img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_13.08.gif">
 
