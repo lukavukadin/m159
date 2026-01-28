@@ -10,4 +10,12 @@
 
 ### 1. Schritt:
 
-<img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_20.28.png">
+<img width=70% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_20.28.png">
+
+### 2. Schritt:
+
+
+<img width=70% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_20.33.png">
+
+
+### 3. Schritt:
