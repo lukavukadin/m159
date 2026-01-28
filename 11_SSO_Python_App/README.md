@@ -18,11 +18,12 @@ Mit "python --version" nachgeschaut ob Python auch wirklich installiert wurde:
 
 Zuerst habe ich das Repository von Aeschlimann "m159" auf meinen lokalen Rechner geklont:
 
-img_28.01.26_11.02.png
+<img width=95% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_11.02.png">
 
 Dann habe ich es unter documents auf de CLIENT rüberkopiert:
 
-img_28.01.26_11.04.png
+<img width=95% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_11.04.png">
+
 
 ----
 
