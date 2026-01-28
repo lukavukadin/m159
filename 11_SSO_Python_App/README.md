@@ -5,11 +5,12 @@
 Zuerst habe ich mit diesen Befehlen auf dem CLIENT Python heruntergeladen und gestartet:
 
 <img width=95% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_10.46.png">
-<img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_10.52.png">
+<img width=95% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_10.52.png">
+
 
 Mit "python --version" nachgeschaut ob Python auch wirklich installiert wurde:
 
-<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_10.51.png">
+<img width=95% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_10.51.png">
 
 ----
 
