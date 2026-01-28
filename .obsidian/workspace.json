@@ -11,12 +11,14 @@
             "id": "76c1d5924371ff0d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/Drawing 2026-01-22 08.37.11.excalidraw.png"
+                "file": "11_SSO_Python_App/README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Drawing 2026-01-22 08.37.11.excalidraw"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -186,6 +188,7 @@
   },
   "active": "76c1d5924371ff0d",
   "lastOpenFiles": [
+    "img/Drawing 2026-01-22 08.37.11.excalidraw.png",
     "README.md",
     "dit.excalidraw.md",
     "group_nesting.excalidraw.md",
