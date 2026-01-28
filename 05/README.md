@@ -2,7 +2,6 @@
 ---
 ## 1.  Verzeichnis in AWS einrichten
 
-
 <img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_20.25.png">
 
 ---
@@ -45,11 +44,9 @@ Jetzt habe ich auf meinem Domain Controller einen Conditional Forwarder aufgeset
 
 <img width=60% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_21.40.png">
 
-<img width=60% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_21.42.png">
+<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_21.42.png">
 
 ----
 ### 4. Domain Controller Trust
 
-
-
-
+<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_22.42.png">
