@@ -88,6 +88,10 @@ In diesem Szenario wurde geprüft, ob die Applikation eine bestehende Identität
 
 Der Test mit Microsoft Edge bestätigt das **Seamless SSO**: Dank des lokalen **Kerberos-Tickets** erfolgt der Login in die Python-App vollautomatisch ohne jegliche Benutzereingabe:
 
+#### Bild:
+
+<img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_20.06.png">
+
 #### Video:
 
 <img width=100% height=100% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_19.57.gif">
