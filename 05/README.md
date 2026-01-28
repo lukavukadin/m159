@@ -34,9 +34,8 @@ Jetzt habe ich das Verzeichnis erstellt:
 
 Der AD ist jetzt "Aktiv":
 
-img_28.01.26_21.36.png
 
-<img width=70% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_21.36.png">
+<img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_21.36.png">
 
 -----
 
@@ -44,3 +43,4 @@ img_28.01.26_21.36.png
 
 Jetzt habe ich auf meinem Domain Controller einen Conditional Forwarder aufgesetzt:
 
+<img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_21.40.png">
