@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11_SSO_Python_App/README.md",
+                "file": "05/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -188,6 +188,10 @@
   },
   "active": "76c1d5924371ff0d",
   "lastOpenFiles": [
+    "07_DIT_GPO/README.md",
+    "05/README.md",
+    "img/img_28.01.26_20.25.png",
+    "11_SSO_Python_App/README.md",
     "img/img_28.01.26_20.06.png",
     "img/img_28.01.26_19.57.gif",
     "img/Drawing 2026-01-22 08.37.11.excalidraw.png",
@@ -200,10 +204,8 @@
     "01_Planung.md",
     "m159/01_Planung.md",
     "m159",
-    "11_SSO_Python_App/README.md",
     "09_Servergespeicherte_Benutzerprofile/README.md",
     "04_Freigaben_Laufwerke_Berechtigungen/README.md",
-    "07_DIT_GPO/README.md",
     "03_Neue_Gesamtstruktur_und_Client/README.md",
     "02_Initial_Setup/Initial-Setup.md",
     "img/Modul_159_Architekturdiagramm_Vukadin.drawio.png",
@@ -212,12 +214,9 @@
     "img/img_28.01.26_13.11.png",
     "img/img_28.01.26_13.08.gif",
     "img/img_28.01.26_11.44.png",
-    "img/img_28.01.26_11.43.png",
-    "img/img_28.01.26_11.40.png",
     "11_SSO_Python_App",
     "Unbenannt.md",
     "09_Servergespeicherte_Benutzerprofile",
-    "05/README.md",
     "08_MS_Entra_ID",
     "08_.md",
     "07_DIT_GPO/gpo.html",
