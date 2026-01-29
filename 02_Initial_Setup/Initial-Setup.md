@@ -3,6 +3,9 @@
 ### 1. Schritt: VPC erstellt
 <img width=90% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_15.01.26_08.29.png">
 
+
+<img width=90% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_08.25.png">
+
 -----
 ### 2. Schritt: Sicherheitsgruppe erstellt
 
