@@ -92,3 +92,6 @@ img_29.01.26_02.01.png
 
 
 Somit habe ich die AWS Managed AD aufgesetzt und mit meinem bereits laufenden Domänenkontroller verbunden.
+
+
+img_29.01.26_02.04.png
