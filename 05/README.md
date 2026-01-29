@@ -83,7 +83,7 @@ Hier habe ich meine Domain vom AWS Managed angegeben:
 
 <img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_01.49.png">
 
-<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_01.53.png">
+<img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_01.53.png">
 
 
 
