@@ -174,12 +174,10 @@ Dann eine fiktive IP zugeteilt:
 
 Hier habe ich jetzt einen Drucker ausgewählt der Farbe Drucken kann:
 
-
 <img width=50% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_26.01.26_18.08.png">
 
 
 Hier habe ich "Share this printer...." ausgewählt, damit ich ihn auch später per Gruppenrichtlinie (GPO) über einen UNC-Pfad verteilen kann! Den gleichen Prozess habe ich dann für den Schwarz-weiss Drucker gemacht:
-
 
 <img width=50% height=40% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_26.01.26_18.11.png">
 
