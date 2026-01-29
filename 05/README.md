@@ -33,21 +33,22 @@ Jetzt habe ich das Verzeichnis erstellt:
 
 Der AD ist jetzt "Aktiv":
 
-
 <img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_21.36.png">
 
 -----
-
 ## 3. Conditional Forwarder
 
 Jetzt habe ich auf meinem Domain Controller einen Conditional Forwarder aufgesetzt:
 
 <img width=60% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_21.40.png">
-
 <img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_21.42.png">
 
+Der Befehl `nslookup -type=SOA aws.lukavukadin.ch` war erfolgreich:
+
+<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_02.04.png">
+
 ----
-### 4. Domain Controller Trust
+## 4. Domain Controller Trust
 
 Jetzt bin ich auf "Active Directory Domains and Trusts" Tool gegangen und habe einen Trust erstellt:
 
@@ -58,42 +59,48 @@ Hier habe ich meine Domain vom AWS Managed angegeben:
 
 <img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_28.01.26_22.47.png">
 
+Dann habe ich folgende Schritte ausgeführt um den Trust zu erstellen:
 
+1. Schritt
 
+<img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_01.37.png">
 
+2. Schritt 
 
-<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_01.37.png">
+<img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_01.38.png">
 
-<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_01.38.png">
+3. Schritt
 
+<img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_01.39.png">
 
+4. Schritt
 
+<img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_01.40.png">
 
-<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_01.39.png">
+Der Trust wurde erfolgreich erstellt:
 
+<img width=50% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_01.41.png">
 
-<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_01.40.png">
+---
+## 5. Trust Relationship
 
-<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_01.41.png">
-
-
-
-## Trust Relationship
-
+Dann musste ich eine "Trust relationship" für meinen AWS Managed AD hinzufügen:
 
 <img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_01.49.png">
+
+Dann wurde der Trust "Bestätigt":
 
 <img width=100% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_01.53.png">
 
 
+----
+## 6. Trust validieren
 
-### Trust validieren
+In diesem Schritt ging ich auf meinen Domain Controller und habe validiert
 
 <img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_02.01.png">
 
+Mir dieser Aufgabe habe ich meinen eigenen AWS Managed AD aufgesetzt und ihn mit meinem bestehenden Domain Controller verbunden.
 
 
-Somit habe ich die AWS Managed AD aufgesetzt und mit meinem bereits laufenden Domänenkontroller verbunden.
-
-<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_02.04.png">
 
