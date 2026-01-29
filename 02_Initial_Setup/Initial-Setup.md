@@ -1,8 +1,9 @@
 # Initial Setup
 
-### 1. Schritt: VPC erstellt
+### 1. Schritt: VPC erstellt:
 <img width=90% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_15.01.26_08.29.png">
 
+### 1.1. Schritt: Konfiguration von VPC:
 
 <img width=90% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_08.25.png">
 
@@ -64,17 +65,16 @@
 ----
 ### 9. Schritt: Elastic IP
 
-##### Elastic ip noch erstellt, damit sich meine ip nicht immer ändert!
+##### Elastic ip noch erstellt, damit sich meine ip nicht immer ändert!:
 
 <img width=80% height=80% alt="elastic-ip" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/elastic-ip.png">
 
-##### zugewiesen zu meiner instance
+##### zugewiesen zu meiner instance:
 
 <img width=80% height=80% alt="elastic-ip-zuweisen" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_20.01.26_21.44.png">
 
 ----
 ###  10. Schritt: Windows Client Instanz starten
-
 
 <img width=80% height=80% alt="client-windows" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_20.01.26_22.05.png">
 
@@ -99,4 +99,7 @@
 ##### Dns-Server gesetzt:
 
 <img width=40% height=40% alt="IEsecurty" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_11.24.png">
+
+----
+
 
