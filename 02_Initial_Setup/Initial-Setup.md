@@ -78,18 +78,22 @@
 
 <img width=80% height=80% alt="client-windows" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_20.01.26_22.05.png">
 
+### 11. Schritt: Sicherheitsgruppe
 
-### 11. Schritt: PC name geändert auf client
+
+<img width=60% height=60% alt="pc-name" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_08.34.png">
+
+### 12. Schritt: PC name geändert auf client
 
 <img width=60% height=60% alt="pc-name" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_11.10.png">
 
 ----
-### 12. Schritt: IE Enhanced Security Configuration auschalten
+### 13. Schritt: IE Enhanced Security Configuration auschalten
 
 <img width=60% height=60% alt="IEsecurty" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_11.15.png">
 
 ----
-### 13. Schritt: IPv6 deaktivieren & DNS-Server setzen
+### 14. Schritt: IPv6 deaktivieren & DNS-Server setzen
 
 ##### IPv6 deaktiviert von client:
 
