@@ -1,11 +1,11 @@
 # Initial Setup
 
 ### 1. Schritt: VPC erstellt:
-<img width=90% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_15.01.26_08.29.png">
+<img width=100% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_15.01.26_08.29.png">
 
 ### 1.1. Schritt: Konfiguration von VPC:
 
-<img width=90% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_08.25.png">
+<img width=100% height=90% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_08.25.png">
 
 -----
 ### 2. Schritt: Sicherheitsgruppe erstellt
@@ -80,8 +80,7 @@
 
 ### 11. Schritt: Sicherheitsgruppe
 
-
-<img width=60% height=60% alt="pc-name" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_08.34.png">
+<img width=100% height=60% alt="pc-name" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_08.34.png">
 
 ### 12. Schritt: PC name geändert auf client
 
