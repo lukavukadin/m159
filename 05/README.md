@@ -60,38 +60,39 @@ Hier habe ich meine Domain vom AWS Managed angegeben:
 
 
 
-img_29.01.26_01.37.png
+
+
+<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_01.37.png">
+
+<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_01.38.png">
 
 
 
 
-img_29.01.26_01.38.png
+<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_01.39.png">
 
 
+<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_01.40.png">
 
+<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_01.41.png">
 
-img_29.01.26_01.39.png
-
-
-img_29.01.26_01.40.png
-
-img_29.01.26_01.41.png
 
 
 ## Trust Relationship
 
-img_29.01.26_01.49.png
+<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_01.49.png">
 
-img_29.01.26_01.53.png
+<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_01.53.png">
+
 
 
 ### Trust validieren
 
+<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_02.01.png">
 
-img_29.01.26_02.01.png
 
 
 Somit habe ich die AWS Managed AD aufgesetzt und mit meinem bereits laufenden Domänenkontroller verbunden.
 
+<img width=80% height=95% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_02.04.png">
 
-img_29.01.26_02.04.png
