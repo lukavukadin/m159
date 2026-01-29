@@ -212,3 +212,6 @@ Um den Fernzugriff auf die Infrastruktur sicher und skalierbar zu gestalten, hab
 | **GRP_RDP_Admins** | DC & Client    | Administrative Anmeldung | Systemverwaltung & Wartung        |
 | **GRP_RDP_Users**  | Nur Client     | Standard-Benutzer        | Tägliche Arbeit ohne Admin-Rechte |
 
+<img width=80% height=80% alt="Bildname" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_08.49.png">
+
+

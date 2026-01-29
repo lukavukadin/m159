@@ -27,7 +27,6 @@
 ##### Cloudinit Datei: [Hier](/02_Initial_Setup/cloud-init)
 
 ----
-
 ### 4. Schritt: RDP verbindung
 
 ##### Private-Key hinterlegt und Passwort abgerufen:
@@ -78,10 +77,12 @@
 
 <img width=100% height=80% alt="client-windows" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_20.01.26_22.05.png">
 
+---
 ### 11. Schritt: Sicherheitsgruppe
 
 <img width=100% height=60% alt="pc-name" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_29.01.26_08.34.png">
 
+---
 ### 12. Schritt: PC name geändert auf client
 
 <img width=60% height=60% alt="pc-name" src="https://raw.githubusercontent.com/lukavukadin/m159/main/img/img_21.01.26_11.10.png">
