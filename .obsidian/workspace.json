@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_AWS_Managed_Microsoft_AD/README.md",
+                "file": "05_AWS_Managed_Microsoft_AD/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -200,7 +200,7 @@
     "02_Initial_Setup/Initial-Setup.md",
     "02_Initial_Setup/cloud-init.md",
     "01_Planung/Projekt-Setup-Sheet.md",
-    "5_AWS_Managed_Microsoft_AD/README.md",
+    "05_AWS_Managed_Microsoft_AD/README.md",
     "03_Neue_Gesamtstruktur_und_Client/README.md",
     "04_Freigaben_Laufwerke_Berechtigungen/README.md",
     "Pasted image 20260129014108.png",
@@ -226,6 +226,6 @@
     "06",
     "Excalidraw",
     "Unbenannt.canvas",
-    "5_AWS_Managed_Microsoft_AD"
+    "05_AWS_Managed_Microsoft_AD"
   ]
 }
